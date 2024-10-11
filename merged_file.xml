@@ -14,7 +14,7 @@
 		<category id="554391283591">Пауэрлифтинг</category>
 		<category id="282715213631">Тренажеры Хаммер/Силовые тренажеры</category>
 		<category id="405464406601">Тренажеры на свободных весах/Силовые тренажеры</category>
-		<category id="956458558451">​Скамьи, стойки, турники</category>
+		<category id="956458558451">Скамьи, стойки, турники</category>
 		</categories>
 		<offers>
 		<offer id="490562099971">
@@ -31,10 +31,9 @@
 			<price>101300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>490562099971</barcode>
 			<weight>170</weight>
 			<dimensions>185/110/240</dimensions>
-		</offer>
+		<barcode>5979719092659</barcode></offer>
 		<offer id="727358138431">
 			<name>Грузоблочный тренажер Вертикальная + Горизонтальная тяга</name>
 			<vendor>DEXsport</vendor>
@@ -49,10 +48,9 @@
 			<price>111500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>727358138431</barcode>
 			<weight>200</weight>
 			<dimensions>201/105/219</dimensions>
-		</offer>
+		<barcode>1697346110334</barcode></offer>
 		<offer id="140721419001">
 			<name>Грузоблочный тренажер Вертикальная тяга</name>
 			<vendor>DEXsport</vendor>
@@ -67,10 +65,9 @@
 			<price>102700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>140721419001</barcode>
 			<weight>200</weight>
 			<dimensions>185/110/240</dimensions>
-		</offer>
+		<barcode>1885320108594</barcode></offer>
 		<offer id="497084789551">
 			<name>Грузоблочный тренажер Горизонтальная тяга</name>
 			<vendor>DEXsport</vendor>
@@ -85,10 +82,9 @@
 			<price>102700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>497084789551</barcode>
 			<weight>200</weight>
 			<dimensions>185/110/240</dimensions>
-		</offer>
+		<barcode>8728823921792</barcode></offer>
 		<offer id="481383810301">
 			<name>Грузоблочный тренажер Турник-брусья (Гравитрон)</name>
 			<vendor>DEXsport</vendor>
@@ -103,10 +99,9 @@
 			<price>121200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>481383810301</barcode>
 			<weight>150</weight>
 			<dimensions>136/117/264</dimensions>
-		</offer>
+		<barcode>7872485490804</barcode></offer>
 		<offer id="163071334941">
 			<name>Грузоблочный тренажер для приводящих мышц бедра</name>
 			<vendor>DEXsport</vendor>
@@ -121,10 +116,9 @@
 			<price>102700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>163071334941</barcode>
 			<weight>200</weight>
 			<dimensions>175.5/76/183</dimensions>
-		</offer>
+		<barcode>8769305285643</barcode></offer>
 		<offer id="392651736961">
 			<name>Грузоблочный тренажер для предплечий</name>
 			<vendor>DEXsport</vendor>
@@ -139,10 +133,9 @@
 			<price>55100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>392651736961</barcode>
 			<weight>70</weight>
 			<dimensions>79/108/136</dimensions>
-		</offer>
+		<barcode>4508803735038</barcode></offer>
 		<offer id="261209072981">
 			<name>Грузоблочный тренажер для отводящих и приводящих мышц бедра</name>
 			<vendor>DEXsport</vendor>
@@ -157,10 +150,9 @@
 			<price>118800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>261209072981</barcode>
 			<weight>200</weight>
 			<dimensions>175.5/76/183</dimensions>
-		</offer>
+		<barcode>9268933933722</barcode></offer>
 		<offer id="750495943091">
 			<name>Грузоблочный тренажер для отводящих мышц бедра</name>
 			<vendor>DEXsport</vendor>
@@ -175,10 +167,9 @@
 			<price>102700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>750495943091</barcode>
 			<weight>200</weight>
 			<dimensions>175.5/76/183</dimensions>
-		</offer>
+		<barcode>1560411526371</barcode></offer>
 		<offer id="916242027091">
 			<name>Грузоблочный тренажер Баттерфляй (Грудь + Задние дельты)</name>
 			<vendor>DEXsport</vendor>
@@ -193,10 +184,9 @@
 			<price>110200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>916242027091</barcode>
 			<weight>170</weight>
 			<dimensions>130/72/212</dimensions>
-		</offer>
+		<barcode>7606986865577</barcode></offer>
 		<offer id="675211983461">
 			<name>Грузоблочный тренажер Брусья (Жим вниз)</name>
 			<vendor>DEXsport</vendor>
@@ -211,10 +201,9 @@
 			<price>105400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>675211983461</barcode>
 			<weight>200</weight>
 			<dimensions>185/110/240</dimensions>
-		</offer>
+		<barcode>4629228070327</barcode></offer>
 		<offer id="681679204961">
 			<name>Грузоблочный тренажер для бицепса бедра</name>
 			<vendor>DEXsport</vendor>
@@ -229,10 +218,9 @@
 			<price>99500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>681679204961</barcode>
 			<weight>175</weight>
 			<dimensions>185/110/240</dimensions>
-		</offer>
+		<barcode>6330888533654</barcode></offer>
 		<offer id="360647157021">
 			<name>Грузоблочный тренажер квадрицепс-машина</name>
 			<vendor>DEXsport</vendor>
@@ -247,10 +235,9 @@
 			<price>103300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>360647157021</barcode>
 			<weight>190</weight>
 			<dimensions>149/75/150</dimensions>
-		</offer>
+		<barcode>3145608849525</barcode></offer>
 		<offer id="440324762281">
 			<name>Грузоблочный тренажер Квадрицепс+Бицепс бедра сидя</name>
 			<vendor>DEXsport</vendor>
@@ -265,10 +252,9 @@
 			<price>112200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>440324762281</barcode>
 			<weight>190</weight>
 			<dimensions>142/87/165</dimensions>
-		</offer>
+		<barcode>6125808168210</barcode></offer>
 		<offer id="304431480571">
 			<name>Грузоблочный тренажер для мышц шеи</name>
 			<vendor>DEXsport</vendor>
@@ -283,10 +269,9 @@
 			<price>104900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>304431480571</barcode>
 			<weight>150</weight>
 			<dimensions>149/75/150</dimensions>
-		</offer>
+		<barcode>5126107533991</barcode></offer>
 		<offer id="111693140801">
 			<name>Кроссовер регулируемый (2*75 кг)</name>
 			<vendor>DEXsport</vendor>
@@ -301,10 +286,9 @@
 			<price>147700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>111693140801</barcode>
 			<weight>300</weight>
 			<dimensions>350/110/240</dimensions>
-		</offer>
+		<barcode>6078504369231</barcode></offer>
 		<offer id="404063435051">
 			<name>Грузоблочный тренажер Дельта-машина</name>
 			<vendor>DEXsport</vendor>
@@ -319,10 +303,9 @@
 			<price>102300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>404063435051</barcode>
 			<weight>150</weight>
 			<dimensions>115/78/178</dimensions>
-		</offer>
+		<barcode>3631044629833</barcode></offer>
 		<offer id="546470653991">
 			<name>Грузоблочный тренажер для жима лежа</name>
 			<vendor>DEXsport</vendor>
@@ -337,10 +320,9 @@
 			<price>105800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>546470653991</barcode>
 			<weight>180</weight>
 			<dimensions>195/125/209</dimensions>
-		</offer>
+		<barcode>7765184619082</barcode></offer>
 		<offer id="215082763841">
 			<name>Универсальная тяга + баттерфляй + задняя дельта</name>
 			<vendor>DEXsport</vendor>
@@ -355,10 +337,9 @@
 			<price>146600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>215082763841</barcode>
 			<weight>230</weight>
 			<dimensions>225/110/235</dimensions>
-		</offer>
+		<barcode>4749978205760</barcode></offer>
 		<offer id="751754190061">
 			<name>Грузоблочный тренажер приведение-отведение бедра стоя</name>
 			<vendor>DEXsport</vendor>
@@ -373,10 +354,9 @@
 			<price>84200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>751754190061</barcode>
 			<weight>160</weight>
 			<dimensions>101/115/185</dimensions>
-		</offer>
+		<barcode>8109376252661</barcode></offer>
 		<offer id="981936948742">
 			<name>Грузоблочный тренажер Бицепс-Трицепс машина</name>
 			<vendor>DEXsport</vendor>
@@ -391,9 +371,8 @@
 			<price>99500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>981936948742</barcode>
 			<dimensions>148.2/104.1/206.3</dimensions>
-		</offer>
+		<barcode>3986613585462</barcode></offer>
 		<offer id="825005947152">
 			<name>Торс - машина (70 кг)</name>
 			<vendor>DEXsport</vendor>
@@ -408,9 +387,8 @@
 			<price>96300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>825005947152</barcode>
 			<dimensions>130.5/85/186.1</dimensions>
-		</offer>
+		<barcode>8745129593638</barcode></offer>
 		<offer id="416451813742">
 			<name>Тренажер Гравитрон Ассистент с противовесом</name>
 			<vendor>DEXsport</vendor>
@@ -425,9 +403,8 @@
 			<price>153000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>416451813742</barcode>
 			<dimensions>150/112.5/203</dimensions>
-		</offer>
+		<barcode>4271193635706</barcode></offer>
 		<offer id="634940415042">
 			<name>Грузоблочный тренажер Голень машина Осел + Гакк</name>
 			<vendor>DEXsport</vendor>
@@ -442,9 +419,8 @@
 			<price>140700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<barcode>634940415042</barcode>
 			<dimensions>234/134.5/217</dimensions>
-		</offer>
+		<barcode>0045544535649</barcode></offer>
 		<offer id="625255408081">
 			<name>Стойка домкратная для пауэрлифтинга со скамьей, страховочными упорами и платформой для партнера</name>
 			<vendor>DEXsport</vendor>
@@ -459,10 +435,9 @@
 			<price>48000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>554391283591</categoryId>
-			<barcode>625255408081</barcode>
 			<weight>100</weight>
 			<dimensions>143/124/91</dimensions>
-		</offer>
+		<barcode>5947141927290</barcode></offer>
 		<offer id="894754443671">
 			<name>Соревновательная домкратная стойка для пауэрлифтинга со скамьей и страховочными упорами</name>
 			<vendor>DEXsport</vendor>
@@ -477,9 +452,8 @@
 			<price>105900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>554391283591</categoryId>
-			<barcode>894754443671</barcode>
 			<dimensions>177/227.2/145.5</dimensions>
-		</offer>
+		<barcode>6733862570520</barcode></offer>
 		<offer id="326598112481">
 			<name>Тренажер Хаммер для жима от груди</name>
 			<vendor>DEXsport</vendor>
@@ -494,10 +468,9 @@
 			<price>89800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
-			<barcode>326598112481</barcode>
 			<weight>140</weight>
 			<dimensions>190/125/165</dimensions>
-		</offer>
+		<barcode>5401430368909</barcode></offer>
 		<offer id="780769116561">
 			<name>Тренажер серии Хаммер для горизонтального жима ногами</name>
 			<vendor>DEXsport</vendor>
@@ -512,10 +485,9 @@
 			<price>101300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
-			<barcode>780769116561</barcode>
 			<weight>120</weight>
 			<dimensions>224/97/171</dimensions>
-		</offer>
+		<barcode>4881069775483</barcode></offer>
 		<offer id="843237006801">
 			<name>Тренажер Хаммер рычажная тяга</name>
 			<vendor>DEXsport</vendor>
@@ -530,10 +502,9 @@
 			<price>73600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
-			<barcode>843237006801</barcode>
 			<weight>95</weight>
 			<dimensions>140/140/117</dimensions>
-		</offer>
+		<barcode>4937719868446</barcode></offer>
 		<offer id="328411937311">
 			<name>Грузоблочный Тренажер Хаммер жим от груди</name>
 			<vendor>DEXsport</vendor>
@@ -548,10 +519,9 @@
 			<price>128400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
-			<barcode>328411937311</barcode>
 			<weight>210</weight>
 			<dimensions>209/132/225</dimensions>
-		</offer>
+		<barcode>9486911477826</barcode></offer>
 		<offer id="814770253241">
 			<name>Тренажер Хаммер жим вертикальный со сведением</name>
 			<vendor>DEXsport</vendor>
@@ -566,10 +536,9 @@
 			<price>89000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
-			<barcode>814770253241</barcode>
 			<weight>80</weight>
 			<dimensions>198/117.5/150</dimensions>
-		</offer>
+		<barcode>0593422821969</barcode></offer>
 		<offer id="846341973671">
 			<name>Тренажер Хаммер жим от груди со сведением (легкий старт)</name>
 			<vendor>DEXsport</vendor>
@@ -584,10 +553,9 @@
 			<price>100500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
-			<barcode>846341973671</barcode>
 			<weight>150</weight>
 			<dimensions>173/129/161</dimensions>
-		</offer>
+		<barcode>1340213562216</barcode></offer>
 		<offer id="490092530381">
 			<name>Хаммер жим от груди с регулировкой начального положения</name>
 			<vendor>DEXsport</vendor>
@@ -602,10 +570,9 @@
 			<price>126300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
-			<barcode>490092530381</barcode>
 			<weight>125</weight>
 			<dimensions>160/175/168</dimensions>
-		</offer>
+		<barcode>7573895433244</barcode></offer>
 		<offer id="929395481981">
 			<name>Тренажер хаммер для жим лежа от груди</name>
 			<vendor>DEXsport</vendor>
@@ -620,10 +587,9 @@
 			<price>67100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
-			<barcode>929395481981</barcode>
 			<weight>90</weight>
 			<dimensions>170/175/92</dimensions>
-		</offer>
+		<barcode>4223395234775</barcode></offer>
 		<offer id="489424532512">
 			<name>Тренажер Хаммер для спины Вертикальная тяга</name>
 			<vendor>DEXsport</vendor>
@@ -638,10 +604,9 @@
 			<price>87200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
-			<barcode>489424532512</barcode>
 			<weight>90</weight>
 			<dimensions>190/100/200</dimensions>
-		</offer>
+		<barcode>1149392002939</barcode></offer>
 		<offer id="690734738451">
 			<name>Тренажер Голень-машина (Сидя) на свободных весах</name>
 			<vendor>DEXsport</vendor>
@@ -656,10 +621,9 @@
 			<price>37300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>690734738451</barcode>
 			<weight>90</weight>
 			<dimensions>104.5/70/107</dimensions>
-		</offer>
+		<barcode>3060314618268</barcode></offer>
 		<offer id="900555453831">
 			<name>Тренажер машина Смита с противовесом</name>
 			<vendor>DEXsport</vendor>
@@ -674,10 +638,9 @@
 			<price>105300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>900555453831</barcode>
 			<weight>120</weight>
 			<dimensions>142/220/255</dimensions>
-		</offer>
+		<barcode>5251099275830</barcode></offer>
 		<offer id="463719642341">
 			<name>Тренажер машина Смита</name>
 			<vendor>DEXsport</vendor>
@@ -692,10 +655,9 @@
 			<price>96000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>463719642341</barcode>
 			<weight>100</weight>
 			<dimensions>126/220/240</dimensions>
-		</offer>
+		<barcode>4588110064229</barcode></offer>
 		<offer id="815836118001">
 			<name>Тренажер для предплечий с вращением кисти (четыре движения)</name>
 			<vendor>DEXsport</vendor>
@@ -705,15 +667,14 @@
 Тренажер для эффективной тренировки мышц предплечий&lt;br /&gt;Нарастить массу в области предплечий и запястий бывает непросто. Эту проблему поможет решить специальный тренажер для изолированной проработки мышц предплечий.&lt;br /&gt;&lt;br /&gt;Конструкция включает стальную раму и рукоятку, соединенную с отягощением в виде наборных дисков. Выполняя различные движения кистью и используя 4 типа захватов, можно задействовать все целевые мышечные группы.&lt;br /&gt;&lt;br /&gt;Это повороты кисти внутрь и наружу, супинация и пронация предплечий. Работа станка заключается в подъеме веса путем наматывания троса на вращающуюся ось.&lt;br /&gt;Тренировки на этом тренажере позволят быстро нарастить силу и объем мышц предплечий, сформировать впечатляющий рельеф рук.&lt;br /&gt;&lt;br /&gt;Тренажер для предплечий (четыре движения), как и универсальные силовые тренажеры исключает вероятность получения травмы во время занятий.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен пластиковыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Накопитель для нагрузки может быть выполнен размерами 26, 31, 51мм.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
 
 			</description>
-			<picture>https://static.tildacdn.com/stor3566-6262-4336-b336-346231626664/25488901.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6461-3263-4337-b362-383030333466/70928517.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-815836118001-trenazher-dlya-predplechii-s-vrascheniem</url>
 			<price>30600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>815836118001</barcode>
 			<weight>40</weight>
 			<dimensions>73/111/141</dimensions>
-		</offer>
+		<barcode>0896061185042</barcode></offer>
 		<offer id="876383956581">
 			<name>Универсальный тренажер Жим ногами + Гакк-присед</name>
 			<vendor>DEXsport</vendor>
@@ -728,10 +689,9 @@
 			<price>116600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>876383956581</barcode>
 			<weight>155</weight>
 			<dimensions>246/117/162</dimensions>
-		</offer>
+		<barcode>7853330180941</barcode></offer>
 		<offer id="586770035451">
 			<name>Тренажер Гаккеншмидта</name>
 			<vendor>DEXsport</vendor>
@@ -746,10 +706,9 @@
 			<price>103300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>586770035451</barcode>
 			<weight>165</weight>
 			<dimensions>200/96/150</dimensions>
-		</offer>
+		<barcode>7419396109984</barcode></offer>
 		<offer id="874853720241">
 			<name>Тренажер для жима ногами</name>
 			<vendor>DEXsport</vendor>
@@ -764,10 +723,9 @@
 			<price>103300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>874853720241</barcode>
 			<weight>130</weight>
 			<dimensions>238/113/152</dimensions>
-		</offer>
+		<barcode>7360014188624</barcode></offer>
 		<offer id="916148392161">
 			<name>Тренажер Брусья (Жим вниз) + Тяга на трицепс</name>
 			<vendor>DEXsport</vendor>
@@ -782,10 +740,9 @@
 			<price>58000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>916148392161</barcode>
 			<weight>50</weight>
 			<dimensions>115/84/165</dimensions>
-		</offer>
+		<barcode>8040332205058</barcode></offer>
 		<offer id="569810811211">
 			<name>Тренажер для раздельного жима ногами</name>
 			<vendor>DEXsport</vendor>
@@ -800,10 +757,9 @@
 			<price>171200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>569810811211</barcode>
 			<weight>155</weight>
 			<dimensions>200/96/150</dimensions>
-		</offer>
+		<barcode>9051722241562</barcode></offer>
 		<offer id="644875092341">
 			<name>Жим ногами вертикальный</name>
 			<vendor>DEXsport</vendor>
@@ -818,10 +774,9 @@
 			<price>94200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>644875092341</barcode>
 			<weight>180</weight>
 			<dimensions>178/154/216.5</dimensions>
-		</offer>
+		<barcode>9012649995624</barcode></offer>
 		<offer id="691923551441">
 			<name>Тренажер Дельта-машина на свободных весах</name>
 			<vendor>DEXsport</vendor>
@@ -836,10 +791,9 @@
 			<price>70400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>691923551441</barcode>
 			<weight>85</weight>
 			<dimensions>128/113/121.5</dimensions>
-		</offer>
+		<barcode>4746725285549</barcode></offer>
 		<offer id="231980867011">
 			<name>Бицепс + трицепс-машина на свободных весах</name>
 			<vendor>DEXsport</vendor>
@@ -854,10 +808,9 @@
 			<price>66700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>231980867011</barcode>
 			<weight>65</weight>
 			<dimensions>138.9/126.9/125.8</dimensions>
-		</offer>
+		<barcode>9628202293337</barcode></offer>
 		<offer id="837947082641">
 			<name>Тренажер вертикальный жим на свободных весах</name>
 			<vendor>DEXsport</vendor>
@@ -872,10 +825,9 @@
 			<price>68900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>837947082641</barcode>
 			<weight>85</weight>
 			<dimensions>153/105/202</dimensions>
-		</offer>
+		<barcode>6029892760636</barcode></offer>
 		<offer id="129608998461">
 			<name>Тренажер для ягодичных мышц</name>
 			<vendor>DEXsport</vendor>
@@ -890,10 +842,9 @@
 			<price>84700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>129608998461</barcode>
 			<weight>75</weight>
 			<dimensions>139/118/160</dimensions>
-		</offer>
+		<barcode>1947583702008</barcode></offer>
 		<offer id="419894919051">
 			<name>Тренажер ягодичный мостик</name>
 			<vendor>DEXsport</vendor>
@@ -908,10 +859,9 @@
 			<price>84200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>419894919051</barcode>
 			<weight>95</weight>
 			<dimensions>184/116.5/103</dimensions>
-		</offer>
+		<barcode>0366003148812</barcode></offer>
 		<offer id="307194376591">
 			<name>Т-образный гриф (шток)</name>
 			<vendor>DEXsport</vendor>
@@ -926,10 +876,9 @@
 			<price>30000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>307194376591</barcode>
 			<weight>55</weight>
 			<dimensions>197.5/78.5/54</dimensions>
-		</offer>
+		<barcode>9692772299792</barcode></offer>
 		<offer id="390484039491">
 			<name>Т-образный гриф (шток) с упором в грудь</name>
 			<vendor>DEXsport</vendor>
@@ -944,10 +893,9 @@
 			<price>45400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>390484039491</barcode>
 			<weight>42.3</weight>
 			<dimensions>225/100/130</dimensions>
-		</offer>
+		<barcode>0984066013375</barcode></offer>
 		<offer id="958142382861">
 			<name>Тренажер для приводящих и отводящих мышц (свободные веса)</name>
 			<vendor>DEXsport</vendor>
@@ -962,10 +910,9 @@
 			<price>82400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>958142382861</barcode>
 			<weight>95</weight>
 			<dimensions>160/75/181.5</dimensions>
-		</offer>
+		<barcode>8975756074600</barcode></offer>
 		<offer id="865659168691">
 			<name>Тренажер ягодичный мостик стоя</name>
 			<vendor>DEXsport</vendor>
@@ -980,8 +927,7 @@
 			<price>95200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>865659168691</barcode>
-		</offer>
+		<barcode>7107290892193</barcode></offer>
 		<offer id="829483756921">
 			<name>Тренажер для отводящих мышц бедра стоя</name>
 			<vendor>DEXsport</vendor>
@@ -996,8 +942,7 @@
 			<price>116600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>829483756921</barcode>
-		</offer>
+		<barcode>9692359089709</barcode></offer>
 		<offer id="411490732161">
 			<name>Тренажер для приводящих мышц бедра стоя</name>
 			<vendor>DEXsport</vendor>
@@ -1012,8 +957,7 @@
 			<price>116600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>411490732161</barcode>
-		</offer>
+		<barcode>1683001169632</barcode></offer>
 		<offer id="792937109542">
 			<name>Тренажер для тяги "Шраги"</name>
 			<vendor>DEXsport</vendor>
@@ -1028,9 +972,8 @@
 			<price>72800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>792937109542</barcode>
 			<dimensions>137/163/90.5</dimensions>
-		</offer>
+		<barcode>9043824181921</barcode></offer>
 		<offer id="487613329042">
 			<name>Тренажер для пресса "стискивание сидя"</name>
 			<vendor>DEXsport</vendor>
@@ -1045,8 +988,7 @@
 			<price>98400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>487613329042</barcode>
-		</offer>
+		<barcode>2115652416968</barcode></offer>
 		<offer id="724228137932">
 			<name>Тренажер обратная гиперэкстензия</name>
 			<vendor>DEXsport</vendor>
@@ -1061,8 +1003,7 @@
 			<price>98400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>724228137932</barcode>
-		</offer>
+		<barcode>3128400370602</barcode></offer>
 		<offer id="846269561732">
 			<name>Тренажер для борцов "Бык"</name>
 			<vendor>DEXsport</vendor>
@@ -1077,9 +1018,8 @@
 			<price>94700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<barcode>846269561732</barcode>
 			<dimensions>153/139/208</dimensions>
-		</offer>
+		<barcode>7504510196596</barcode></offer>
 		<offer id="593050504391">
 			<name>Гиперэкстензия горизонтальная</name>
 			<vendor>DEXsport</vendor>
@@ -1094,10 +1034,9 @@
 			<price>28100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>593050504391</barcode>
 			<weight>35</weight>
 			<dimensions>168/63/100</dimensions>
-		</offer>
+		<barcode>5512668466296</barcode></offer>
 		<offer id="940228708931">
 			<name>Гиперэкстензия наклонная 45 градусов</name>
 			<vendor>DEXsport</vendor>
@@ -1112,10 +1051,9 @@
 			<price>26400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>940228708931</barcode>
 			<weight>35</weight>
 			<dimensions>168/63/100</dimensions>
-		</offer>
+		<barcode>6261321890761</barcode></offer>
 		<offer id="395164504861">
 			<name>Скамья для жима со страховочными упорами</name>
 			<vendor>DEXsport</vendor>
@@ -1130,10 +1068,9 @@
 			<price>33900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>395164504861</barcode>
 			<weight>90</weight>
 			<dimensions>168/63/100</dimensions>
-		</offer>
+		<barcode>1293611807864</barcode></offer>
 		<offer id="649607056271">
 			<name>Скамья для пресса</name>
 			<vendor>DEXsport</vendor>
@@ -1148,10 +1085,9 @@
 			<price>29500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>649607056271</barcode>
 			<weight>30</weight>
 			<dimensions>178/72.5/51</dimensions>
-		</offer>
+		<barcode>8104347321773</barcode></offer>
 		<offer id="321328835891">
 			<name>Скамья универсальная профессиональная</name>
 			<vendor>DEXsport</vendor>
@@ -1166,10 +1102,9 @@
 			<price>22500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>321328835891</barcode>
 			<weight>30</weight>
 			<dimensions>143/63/42</dimensions>
-		</offer>
+		<barcode>3538721781412</barcode></offer>
 		<offer id="855934653711">
 			<name>Скамья Скотта</name>
 			<vendor>DEXsport</vendor>
@@ -1184,10 +1119,9 @@
 			<price>25100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>855934653711</barcode>
 			<weight>40</weight>
 			<dimensions>89.5/96.5/104.5</dimensions>
-		</offer>
+		<barcode>9688124408639</barcode></offer>
 		<offer id="338846440251">
 			<name>Скамья для жима лежа со страховочными упорами и упором для партнера</name>
 			<vendor>DEXsport</vendor>
@@ -1202,10 +1136,9 @@
 			<price>35000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>338846440251</barcode>
 			<weight>90</weight>
 			<dimensions>168/63/100</dimensions>
-		</offer>
+		<barcode>7715683948268</barcode></offer>
 		<offer id="176743844971">
 			<name>Стойка для приседаний со страховочными упорами</name>
 			<vendor>DEXsport</vendor>
@@ -1220,10 +1153,9 @@
 			<price>36700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>176743844971</barcode>
 			<weight>70</weight>
 			<dimensions>160/127/199</dimensions>
-		</offer>
+		<barcode>1830288086668</barcode></offer>
 		<offer id="834308107441">
 			<name>Стойка для дисков Елочка на 9 мест</name>
 			<vendor>DEXsport</vendor>
@@ -1238,10 +1170,9 @@
 			<price>22500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>834308107441</barcode>
 			<weight>26</weight>
 			<dimensions>91.5/91.5/124</dimensions>
-		</offer>
+		<barcode>8486469120824</barcode></offer>
 		<offer id="219833518931">
 			<name>Силовая рама с турником</name>
 			<vendor>DEXsport</vendor>
@@ -1256,10 +1187,9 @@
 			<price>69600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>219833518931</barcode>
 			<weight>120</weight>
 			<dimensions>160.5/170/241</dimensions>
-		</offer>
+		<barcode>8320671189081</barcode></offer>
 		<offer id="869981565181">
 			<name>Напольный тренажер пресс-турник-брусья</name>
 			<vendor>DEXsport</vendor>
@@ -1274,10 +1204,9 @@
 			<price>39800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>869981565181</barcode>
 			<weight>80</weight>
 			<dimensions>122/111.5/244.5</dimensions>
-		</offer>
+		<barcode>9272176332976</barcode></offer>
 		<offer id="732453828681">
 			<name>Напольные брусья</name>
 			<vendor>DEXsport</vendor>
@@ -1292,10 +1221,9 @@
 			<price>24600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>732453828681</barcode>
 			<weight>39</weight>
 			<dimensions>97/84/144</dimensions>
-		</offer>
+		<barcode>2107689087648</barcode></offer>
 		<offer id="564564940411">
 			<name>Скамья для жима штанги наклонная</name>
 			<vendor>DEXsport</vendor>
@@ -1310,10 +1238,9 @@
 			<price>33700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>564564940411</barcode>
 			<weight>80</weight>
 			<dimensions>199/129/159</dimensions>
-		</offer>
+		<barcode>7047135063152</barcode></offer>
 		<offer id="807377669081">
 			<name>Скамья для жима штанги сидя</name>
 			<vendor>DEXsport</vendor>
@@ -1328,10 +1255,9 @@
 			<price>27500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>807377669081</barcode>
 			<weight>60</weight>
 			<dimensions>93/60/176</dimensions>
-		</offer>
+		<barcode>8760783212824</barcode></offer>
 		<offer id="348882954821">
 			<name>Скамья для обратных гиперэкстензий</name>
 			<vendor>DEXsport</vendor>
@@ -1346,10 +1272,9 @@
 			<price>24300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>348882954821</barcode>
 			<weight>40</weight>
 			<dimensions>131/85/110</dimensions>
-		</offer>
+		<barcode>8271588834338</barcode></offer>
 		<offer id="851961644731">
 			<name>Римский стул регулируемый</name>
 			<vendor>DEXsport</vendor>
@@ -1364,10 +1289,9 @@
 			<price>29700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>851961644731</barcode>
 			<weight>50</weight>
 			<dimensions>158/74.5/112</dimensions>
-		</offer>
+		<barcode>4477428139838</barcode></offer>
 		<offer id="774863243451">
 			<name>Скамья для жима универсальная 0-90 градусов со стойками</name>
 			<vendor>DEXsport</vendor>
@@ -1382,10 +1306,9 @@
 			<price>55400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>774863243451</barcode>
 			<weight>120</weight>
 			<dimensions>169/167/151</dimensions>
-		</offer>
+		<barcode>4799419125881</barcode></offer>
 		<offer id="572312807391">
 			<name>Стойка для фиксированных приседаний</name>
 			<vendor>DEXsport</vendor>
@@ -1400,10 +1323,9 @@
 			<price>22500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>572312807391</barcode>
 			<weight>40</weight>
 			<dimensions>135/76/53</dimensions>
-		</offer>
+		<barcode>7644423222613</barcode></offer>
 		<offer id="806630000111">
 			<name>Скамья для тяги штанги вверх к груди</name>
 			<vendor>DEXsport</vendor>
@@ -1418,8 +1340,7 @@
 			<price>27900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>806630000111</barcode>
-		</offer>
+		<barcode>7944840237703</barcode></offer>
 		<offer id="743082469412">
 			<name>Скамья горизонтальная атлетическая</name>
 			<vendor>DEXsport</vendor>
@@ -1434,10 +1355,9 @@
 			<price>13500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>743082469412</barcode>
 			<weight>25</weight>
 			<dimensions>141.5/60/45</dimensions>
-		</offer>
+		<barcode>6694180763981</barcode></offer>
 		<offer id="683840311052">
 			<name>Скамья Скотта + Французский жим</name>
 			<vendor>DEXsport</vendor>
@@ -1452,8 +1372,7 @@
 			<price>49600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<barcode>683840311052</barcode>
-		</offer>
+		<barcode>2940922463713</barcode></offer>
 		</offers>
 	</shop>
 </yml_catalog>
