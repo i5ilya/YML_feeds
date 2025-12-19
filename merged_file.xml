@@ -24,7 +24,7 @@
 		<category id="271520605362">Уличные спортивные комплексы</category>
 		<category id="505257754031">Уличные тренажеры</category>
 		<category id="745176365112">Уличные турники</category>
-		<category id="956458558451">​Скамьи, стойки, турники</category>
+		<category id="956458558451">Скамьи, стойки, турники</category>
 		</categories>
 		<offers>
 		<offer id="575336587102">
@@ -33,7 +33,7 @@
 			<vendorCode>ШС-007</vendorCode>
 			<picture>https://static.tildacdn.com/stor3034-6133-4365-b836-613634613634/70794259.jpg</picture>
 			<url>https://dexsport.ru/shvedskie_stenki/tproduct/832660665-575336587102-brusya-stoiki-dlya-shtangi-perevertish</url>
-			<price>7400.00</price>
+			<price>8100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>609450195082</categoryId>
 		<barcode>9000387761656</barcode></offer>
@@ -43,7 +43,7 @@
 			<vendorCode>ШС-008</vendorCode>
 			<picture>https://static.tildacdn.com/stor3432-3238-4232-b137-373066313139/98708822.jpg</picture>
 			<url>https://dexsport.ru/shvedskie_stenki/tproduct/832660665-752526663972-skamya-dlya-pressa-zhima-shtangi</url>
-			<price>14300.00</price>
+			<price>15700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>609450195082</categoryId>
 		<barcode>1608684481529</barcode></offer>
@@ -58,7 +58,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3236-3630-4365-b265-623563646533/49697995.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-490562099971-gruzoblochnii-trenazher-glyut-mashina</url>
-			<price>108400.00</price>
+			<price>119200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>170</weight>
@@ -75,11 +75,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3932-3665-4439-a161-383732313635/80276326.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-727358138431-gruzoblochnii-trenazher-vertikalnaya-gor</url>
-			<price>119400.00</price>
+			<price>131300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<weight>200</weight>
-			<dimensions>228/115/223</dimensions>
+			<weight>250</weight>
+			<dimensions>230.5/115/225</dimensions>
 		<barcode>1697346110334</barcode></offer>
 		<offer id="140721419001">
 			<name>Грузоблочный тренажер Вертикальная тяга</name>
@@ -92,11 +92,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3662-3935-4832-b938-333332623430/16369887.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-140721419001-gruzoblochnii-trenazher-vertikalnaya-tya</url>
-			<price>109900.00</price>
+			<price>120900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>200</weight>
-			<dimensions>185/110/240</dimensions>
+			<dimensions>164/115/225</dimensions>
 		<barcode>1885320108594</barcode></offer>
 		<offer id="497084789551">
 			<name>Грузоблочный тренажер Горизонтальная тяга</name>
@@ -109,11 +109,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/tild6232-3965-4434-a164-313035626132/AG-006_-__.jpeg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-497084789551-gruzoblochnii-trenazher-gorizontalnaya-t</url>
-			<price>109900.00</price>
+			<price>120900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>200</weight>
-			<dimensions>185/110/240</dimensions>
+			<dimensions>230.5/81.5/225</dimensions>
 		<barcode>8728823921792</barcode></offer>
 		<offer id="481383810301">
 			<name>Грузоблочный тренажер Турник-брусья (Гравитрон)</name>
@@ -126,11 +126,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3065-6230-4861-b265-343965343130/78382820.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-481383810301-gruzoblochnii-trenazher-turnik-brusya-gr</url>
-			<price>129700.00</price>
+			<price>142700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<weight>150</weight>
-			<dimensions>136/117/264</dimensions>
+			<weight>220</weight>
+			<dimensions>137.5/117/264</dimensions>
 		<barcode>7872485490804</barcode></offer>
 		<offer id="163071334941">
 			<name>Грузоблочный тренажер для приводящих мышц бедра</name>
@@ -143,11 +143,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/tild3866-6237-4432-b566-353438313631/AG-009______.jpeg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-163071334941-gruzoblochnii-trenazher-dlya-privodyasch</url>
-			<price>109900.00</price>
+			<price>120900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<weight>200</weight>
-			<dimensions>175.5/76/183</dimensions>
+			<weight>230</weight>
+			<dimensions>178/141/183</dimensions>
 		<barcode>8769305285643</barcode></offer>
 		<offer id="392651736961">
 			<name>Грузоблочный тренажер для предплечий</name>
@@ -160,11 +160,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3339-6634-4363-b933-656639303731/46286549.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-392651736961-gruzoblochnii-trenazher-dlya-predplechii</url>
-			<price>59000.00</price>
+			<price>64900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<weight>70</weight>
-			<dimensions>79/108/136</dimensions>
+			<weight>110</weight>
+			<dimensions>63.5/61/187</dimensions>
 		<barcode>4508803735038</barcode></offer>
 		<offer id="261209072981">
 			<name>Грузоблочный тренажер для отводящих и приводящих мышц бедра</name>
@@ -177,11 +177,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6263-3636-4538-b065-623838373731/12524713.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-261209072981-gruzoblochnii-trenazher-dlya-otvodyaschi</url>
-			<price>127200.00</price>
+			<price>139900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<weight>200</weight>
-			<dimensions>175.5/76/183</dimensions>
+			<weight>230</weight>
+			<dimensions>178/78/183</dimensions>
 		<barcode>9268933933722</barcode></offer>
 		<offer id="750495943091">
 			<name>Грузоблочный тренажер для отводящих мышц бедра</name>
@@ -194,11 +194,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/tild6531-6436-4634-a362-333763306137/AG-016______.JPG</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-750495943091-gruzoblochnii-trenazher-dlya-otvodyaschi</url>
-			<price>109900.00</price>
+			<price>120900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<weight>200</weight>
-			<dimensions>175.5/76/183</dimensions>
+			<weight>230</weight>
+			<dimensions>178/78/183</dimensions>
 		<barcode>1560411526371</barcode></offer>
 		<offer id="916242027091">
 			<name>Грузоблочный тренажер Баттерфляй (Грудь + Задние дельты)</name>
@@ -206,16 +206,16 @@
 			<vendorCode>AG-019</vendorCode>
 			<description>
 
-Тренажер Баттерфляй (Грудь + Задние дельты) - это профессиональный грузоблочный тренажер, разработанный специально для проработки грудных и задних дельтовидных мышц. Он является идеальным выбором для спортзалов и тренировочных залов.&lt;br /&gt;&lt;br /&gt;Основное преимущество тренажера Баттерфляй в совмещения двух упражнений: сведения рук для работы грудных мышц и разведения рук для развития задних дельтовидных мышц. Благодаря специальным пружинным фиксаторам, можно легко и быстро переключаться между этими двумя режимами тренировки. &lt;br /&gt;&lt;br /&gt;Для комфорта и эффективности тренировки, тренажер Баттерфляй оснащен регулируемым сиденьем и спинкой, позволяющим атлетам любого роста тренировать разведение и сведение рук сидя.&lt;br /&gt;​&lt;br /&gt;Несущая конструкция изготовлена из профиля 80х60 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски. Конструкция комбинированного тренажер "Баттерфляй" имеет радиальные загибы, что значительно увеличивает ее прочность.&lt;br /&gt;&lt;br /&gt;Сиденья изготовлены из фанеры толщиной 18 мм со стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Сидение и спинка регулируется для удобства спортсмена.&lt;br /&gt;&lt;br /&gt;Привод грузоблока – трос 5 мм в оплетке. Направляющие для грузоблока – стальные хромированные диаметром 25 мм. Вес плитки грузоблока 5 кг. Плитки - стальные покрашенные методом порошковой окраски с двумя пластиковыми втулками для гладкого скольжения. Общий вес грузоблока - 90 кг.&lt;br /&gt;&lt;br /&gt;Все рукоятки профессионального спортивного тренажера для задних дельт оснащены ручками из ПВХ. Все узлы вращения имеют шариковые подшипники закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер имеет пластиковые противоскользящие подпятники.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов тренажера "Баттерфляй" для задних дельт можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.&lt;br /&gt;ДxШxВ(положение дельты): 1300х720х2120&lt;br /&gt;ДxШxВ(положение баттерфляй): 1300х1330х2120
+Тренажер Баттерфляй (Грудь + Задние дельты) - это профессиональный грузоблочный тренажер, разработанный специально для проработки грудных и задних дельтовидных мышц. Он является идеальным выбором для спортзалов и тренировочных залов.&lt;br /&gt;&lt;br /&gt;Основное преимущество тренажера Баттерфляй в совмещения двух упражнений: сведения рук для работы грудных мышц и разведения рук для развития задних дельтовидных мышц. Благодаря специальным пружинным фиксаторам, можно легко и быстро переключаться между этими двумя режимами тренировки. &lt;br /&gt;&lt;br /&gt;Для комфорта и эффективности тренировки, тренажер Баттерфляй оснащен регулируемым сиденьем и спинкой, позволяющим атлетам любого роста тренировать разведение и сведение рук сидя.&lt;br /&gt;​&lt;br /&gt;Несущая конструкция изготовлена из профиля 80х60 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски. Конструкция комбинированного тренажер "Баттерфляй" имеет радиальные загибы, что значительно увеличивает ее прочность.&lt;br /&gt;&lt;br /&gt;Сиденья изготовлены из фанеры толщиной 18 мм со стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Сидение и спинка регулируется для удобства спортсмена.&lt;br /&gt;&lt;br /&gt;Привод грузоблока – трос 5 мм в оплетке. Направляющие для грузоблока – стальные хромированные диаметром 25 мм. Вес плитки грузоблока 5 кг. Плитки - стальные покрашенные методом порошковой окраски с двумя пластиковыми втулками для гладкого скольжения. Общий вес грузоблока - 100 кг.&lt;br /&gt;&lt;br /&gt;Все рукоятки профессионального спортивного тренажера для задних дельт оснащены ручками из ПВХ. Все узлы вращения имеют шариковые подшипники закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер имеет пластиковые противоскользящие подпятники.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов тренажера "Баттерфляй" для задних дельт можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
 
 			</description>
 			<picture>https://static.tildacdn.com/stor6365-3535-4330-a235-623133613831/25903838.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-916242027091-gruzoblochnii-trenazher-batterflyai-grud</url>
-			<price>118000.00</price>
+			<price>129800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>170</weight>
-			<dimensions>130/72/212</dimensions>
+			<dimensions>139/77/212.5</dimensions>
 		<barcode>7606986865577</barcode></offer>
 		<offer id="675211983461">
 			<name>Грузоблочный тренажер Брусья (Жим вниз)</name>
@@ -228,7 +228,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3930-6164-4834-a531-393135323437/35944854.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-675211983461-gruzoblochnii-trenazher-brusya-zhim-vniz</url>
-			<price>112800.00</price>
+			<price>124100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>200</weight>
@@ -245,11 +245,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3761-3564-4234-b334-366136323634/91032830.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-681679204961-gruzoblochnii-trenazher-dlya-bitsepsa-be</url>
-			<price>106500.00</price>
+			<price>117200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>175</weight>
-			<dimensions>170/95/167</dimensions>
+			<dimensions>170/110/240</dimensions>
 		<barcode>6330888533654</barcode></offer>
 		<offer id="360647157021">
 			<name>Грузоблочный тренажер квадрицепс-машина</name>
@@ -262,11 +262,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3533-6339-4765-b732-346263616561/71621378.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-360647157021-gruzoblochnii-trenazher-kvadritseps-mash</url>
-			<price>110600.00</price>
+			<price>121700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>190</weight>
-			<dimensions>149/75/150</dimensions>
+			<dimensions>149/95/167</dimensions>
 		<barcode>3145608849525</barcode></offer>
 		<offer id="440324762281">
 			<name>Грузоблочный тренажер Квадрицепс+Бицепс бедра сидя</name>
@@ -277,13 +277,13 @@
 Грузоблочный тренажер Квадрицепс+Бицепс бедра сидя является идеальным решением для тренировки бицепсов и квадрицепсов бедра. Этот многофункциональный тренажер позволяет эффективно развивать и укреплять мышцы ног.&lt;br /&gt;С его помощью вы можете тренировать бицепсы и квадрицепсы в одном упражнении, делая сгибание и разгибание ног сидя. Тренажер обладает четырьмя регулировками, такими как регулировка спинки, прижимного валика, опорного валика сопротивления и веса. Это позволяет легко настроить тренажер под требуемую интенсивность и индивидуальные потребности спортсмена любой комплекции.&lt;br /&gt;Тренажер для бицепсов и квадрицепсов бедра сидя предоставляет возможность тренировать переднюю и заднюю поверхностях бедра, что способствует полноценному развитию мышц ног. Вы можете делать упражнения для сгибания и разгибания ног сидя, настраивая тренажер по своим предпочтениям и тренировочным целям. &lt;br /&gt;&lt;br /&gt;Бицепс бедра сидя в тренажере, согласно исследованиям, значительно эффективнее по сравнению с упражнениями лежа.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски. Конструкция имеет радиальные загибы, что значительно увеличивает ее прочность.&lt;br /&gt;&lt;br /&gt;Сиденье и спинка изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Спинка регулируется по длине для удобства спортсмена.&lt;br /&gt;&lt;br /&gt;Привод грузоблока – трос 5 мм в оплетке. Направляющие для грузоблока – стальные хромированные диаметром 25 мм. Вес плитки грузоблока 5 кг. Плитки - стальные покрашенные методом порошковой окраски с двумя пластиковыми втулками для гладкого скольжения. Общий вес грузоблока 100 кг.&lt;br /&gt;&lt;br /&gt;Все рукоятки оснащены ручками из ПВХ. Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов тренажера для сгибания-разнибания ног сидя можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
 
 			</description>
-			<picture>https://static.tildacdn.com/stor6464-3261-4433-a166-346663313238/40761411.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3165-3133-4863-b636-356561346536/62763329.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-440324762281-gruzoblochnii-trenazher-kvadritsepsbitse</url>
-			<price>120100.00</price>
+			<price>132100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>190</weight>
-			<dimensions>142/87/165</dimensions>
+			<dimensions>145/115/188</dimensions>
 		<barcode>6125808168210</barcode></offer>
 		<offer id="304431480571">
 			<name>Грузоблочный тренажер для мышц шеи</name>
@@ -296,11 +296,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6365-6462-4765-b535-333061333937/24556598.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-304431480571-gruzoblochnii-trenazher-dlya-mishts-shei</url>
-			<price>112300.00</price>
+			<price>123500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>150</weight>
-			<dimensions>145/115/188</dimensions>
+			<dimensions>149/75/150</dimensions>
 		<barcode>5126107533991</barcode></offer>
 		<offer id="111693140801">
 			<name>Кроссовер регулируемый (2*80 кг)</name>
@@ -313,11 +313,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3532-3034-4636-b538-633333366238/56309312.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-111693140801-krossover-reguliruemii-280-kg</url>
-			<price>158100.00</price>
+			<price>173900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>300</weight>
-			<dimensions>350/110/240</dimensions>
+			<dimensions>353/105/239</dimensions>
 		<barcode>6078504369231</barcode></offer>
 		<offer id="404063435051">
 			<name>Грузоблочный тренажер Дельта-машина</name>
@@ -330,11 +330,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6566-3035-4039-b761-656134303330/91513878.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-404063435051-gruzoblochnii-trenazher-delta-mashina</url>
-			<price>109500.00</price>
+			<price>120500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>150</weight>
-			<dimensions>115/78/178</dimensions>
+			<dimensions>124/78/178.5</dimensions>
 		<barcode>3631044629833</barcode></offer>
 		<offer id="546470653991">
 			<name>Грузоблочный тренажер для жима лежа</name>
@@ -347,11 +347,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3730-3139-4430-b462-633736353962/78929320.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-546470653991-gruzoblochnii-trenazher-dlya-zhima-lezha</url>
-			<price>113300.00</price>
+			<price>124600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<weight>180</weight>
-			<dimensions>195/125/209</dimensions>
+			<weight>210</weight>
+			<dimensions>196/131/208.5</dimensions>
 		<barcode>7765184619082</barcode></offer>
 		<offer id="215082763841">
 			<name>Универсальная тяга + баттерфляй + задняя дельта</name>
@@ -364,11 +364,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3437-6663-4264-b539-393366653566/28248348.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-215082763841-universalnaya-tyaga-batterflyai-zadnyaya</url>
-			<price>156900.00</price>
+			<price>172600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>230</weight>
-			<dimensions>225/110/235</dimensions>
+			<dimensions>225.5/140.5/233</dimensions>
 		<barcode>4749978205760</barcode></offer>
 		<offer id="751754190061">
 			<name>Грузоблочный тренажер приведение-отведение бедра стоя</name>
@@ -381,11 +381,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3831-3837-4437-b136-363532656562/20663708.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-751754190061-gruzoblochnii-trenazher-privedenie-otved</url>
-			<price>90100.00</price>
+			<price>99100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>160</weight>
-			<dimensions>101/115/185</dimensions>
+			<dimensions>115/114.5/184</dimensions>
 		<barcode>8109376252661</barcode></offer>
 		<offer id="981936948742">
 			<name>Грузоблочный тренажер Бицепс-Трицепс машина</name>
@@ -398,10 +398,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3461-3161-4165-b461-356634613134/20804747.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-981936948742-gruzoblochnii-trenazher-bitseps-tritseps</url>
-			<price>106500.00</price>
+			<price>117200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<dimensions>148.2/104.1/206.3</dimensions>
+			<weight>170</weight>
+			<dimensions>152.5/104/207</dimensions>
 		<barcode>3986613585462</barcode></offer>
 		<offer id="825005947152">
 			<name>Торс - машина (70 кг)</name>
@@ -414,10 +415,9 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3737-6265-4164-a437-373030386466/14274535.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-825005947152-tors-mashina-70-kg</url>
-			<price>103100.00</price>
+			<price>113400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<dimensions>130.5/85/186.1</dimensions>
 		<barcode>8745129593638</barcode></offer>
 		<offer id="416451813742">
 			<name>Тренажер Гравитрон Ассистент с противовесом</name>
@@ -430,10 +430,10 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6338-6438-4663-b530-353937613261/18783479.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-416451813742-trenazher-gravitron-assistent-s-protivov</url>
-			<price>163800.00</price>
+			<price>180200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<dimensions>146/77/226</dimensions>
+			<dimensions>149/120.5/227.5</dimensions>
 		<barcode>4271193635706</barcode></offer>
 		<offer id="634940415042">
 			<name>Грузоблочный тренажер Голень машина Осел + Гакк</name>
@@ -446,7 +446,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6436-3861-4031-b065-376531623134/65559313.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-634940415042-gruzoblochnii-trenazher-golen-mashina-os</url>
-			<price>150600.00</price>
+			<price>165700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<dimensions>234/134.5/217</dimensions>
@@ -462,7 +462,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3837-3331-4832-a430-666134623063/89577987.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-678850367202-ag-045-trenazher-mnogofunktsionalnii-sil?editionuid=161505439302</url>
-			<price>298300.00</price>
+			<price>328100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<dimensions>376/97.5/260</dimensions>
@@ -479,7 +479,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3837-3331-4832-a430-666134623063/89577987.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-678850367202-ag-045-trenazher-mnogofunktsionalnii-sil?editionuid=359721984782</url>
-			<price>377900.00</price>
+			<price>415700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<dimensions>390/376/260</dimensions>
@@ -496,9 +496,10 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6562-6632-4065-b138-336431356561/34160787.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-189209478742-ag-020-trenazher-krossover-s-perekrestno</url>
-			<price>131800.00</price>
+			<price>145000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
+			<dimensions>359.5/105/252.5</dimensions>
 		<barcode>7190694751463</barcode></offer>
 		<offer id="360063023912">
 			<name>AG-027 — Блочная стойка (односторонний кроссовер)</name>
@@ -511,10 +512,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3238-6164-4136-b032-373938343934/75590056.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-360063023912-ag-027-blochnaya-stoika-odnostoronnii-kr</url>
-			<price>78500.00</price>
+			<price>86400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
-			<dimensions>71/61/240</dimensions>
+			<weight>135</weight>
+			<dimensions>69.5/113/237.5</dimensions>
 		<barcode>8955771861027</barcode></offer>
 		<offer id="201266576232">
 			<name>AG-047 — Мультикомплекс: Вертикально-Горизонтальная тяга, Баттербляй + Задние дельты, Квадрицепс-бедра сидя, Бицепс бедра стоя, Регулируемая блочная стойка</name>
@@ -527,7 +529,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3837-3037-4236-a361-616234623936/92066248.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-201266576232-ag-047-multikompleks-vertikalno-gorizont</url>
-			<price>850700.00</price>
+			<price>935800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 		<barcode>2697133104712</barcode></offer>
@@ -542,7 +544,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3832-3463-4436-b332-336635326231/96628530.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-642434567752-ag-048-mnogofunktsionalnaya-silovaya-ram</url>
-			<price>187300.00</price>
+			<price>206000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 		<barcode>3870857235507</barcode></offer>
@@ -557,7 +559,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3431-6337-4263-a530-623565653133/36392669.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-818047058182-ag-049-mnogofunktsionalnii-trenazher-mas</url>
-			<price>124200.00</price>
+			<price>136600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 		<barcode>1599710082585</barcode></offer>
@@ -572,7 +574,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6464-3364-4461-b431-393766643333/14892979.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-233798104262-ag-050-blochnii-trenazher-krossover-troi</url>
-			<price>237100.00</price>
+			<price>260800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 		<barcode>3540950512927</barcode></offer>
@@ -587,7 +589,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3362-6464-4435-a638-386261346632/17547907.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-340775455092-ag-044-gruzoblochnii-trenazher-dlya-gori</url>
-			<price>140900.00</price>
+			<price>155000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 		<barcode>1760360160934</barcode></offer>
@@ -602,24 +604,102 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3063-6439-4361-b361-346166363030/48217236.jpg</picture>
 			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-637572732052-gruzoblochnii-trenazher-delta-mashina-gr</url>
-			<price>198000.00</price>
+			<price>217800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>629748238071</categoryId>
 			<weight>240</weight>
 			<dimensions>185/100/232</dimensions>
 		<barcode>4774893495224</barcode></offer>
+		<offer id="294016275432">
+			<name>AG-052 — Угловой кроссовер</name>
+			<vendor>DEXsport</vendor>
+			<vendorCode>AG-052</vendorCode>
+			<description>
+
+Компактный и функциональный угловой кроссовер с регулируемыми блоками и удобными рукоятями для быстрого перемещения роликов вверх или вниз. Оснащен металлическими защитными кожухами, скрывающими два грузовых стека по 80 кг (по запросу вес может быть увеличен).&lt;br /&gt;Верхняя перекладина оборудована турником с двумя вариантами хвата — широким и узким (параллельным), что расширяет возможности тренинга.&lt;br /&gt;Благодаря угловой компоновке тренажер занимает меньше места по сравнению с классическим кроссовером, оставаясь столь же универсальным. Подходит для профессиональных залов, реабилитационных центров и домашнего использования.&lt;br /&gt;Позволяет выполнять широкий спектр упражнений для всех групп мышц, обеспечивая плавный и безопасный ход нагрузки.&lt;br /&gt;&lt;br /&gt;Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+
+			</description>
+			<picture>https://static.tildacdn.com/stor6334-6565-4434-b339-313539363032/85504578.jpg</picture>
+			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-294016275432-ag-052-uglovoi-krossover</url>
+			<price>216700.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>629748238071</categoryId>
+		<barcode>0057844380324</barcode></offer>
+		<offer id="585607651182">
+			<name>AG-034 — Тренажер для армрестлинга</name>
+			<vendor>DEXsport</vendor>
+			<vendorCode>AG-034</vendorCode>
+			<description>
+
+Тренажер для армрестлинга разработан для эффективной проработки силы рук и предплечий. Благодаря специальному пружинному переключателю можно тренировать как левую, так и правую руку, регулируя угол наклона рукояти. Конструкция оснащена удобной подушкой для локтя, упорными рукоятями и грузоблоком 75 кг с защитным кожухом. Надежная рама выполнена из профиля 60×60×2, что обеспечивает долговечность и устойчивость оборудования.&lt;br /&gt;&lt;br /&gt;Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Платформа изготовлена из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+
+			</description>
+			<picture>https://static.tildacdn.com/stor3737-3165-4662-a263-333033613032/33603371.jpg</picture>
+			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-585607651182-ag-034-trenazher-dlya-armrestlinga</url>
+			<price>139700.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>629748238071</categoryId>
+		<barcode>8317527497018</barcode></offer>
+		<offer id="686344616922">
+			<name>AG-002 — Грузоблочный тренажер для вертикального жима сидя</name>
+			<vendor>DEXsport</vendor>
+			<vendorCode>AG-002</vendorCode>
+			<description>
+
+Грузоблочный тренажер для вертикального жима сидя предназначен для эффективной проработки дельтовидных мышц. Упражнение выполняется в положении сидя и представляет собой жим вверх, при этом движение идет по четкой траектории и с равномерной нагрузкой, что обеспечивает комфорт и безопасность по сравнению с жимом штанги. Конструкция оснащена подшипниками закрытого типа для плавности хода, а регулируемое сиденье позволяет подобрать оптимальное положение для изолированной работы передних дельт. Тренажер укомплектован грузоблоком весом 100 кг с защитным кожухом, выполнен из прочного профиля 80×60×2, что гарантирует надежность и долговечность.&lt;br /&gt;&lt;br /&gt;Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Спинка и сиденье изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+
+			</description>
+			<picture>https://static.tildacdn.com/stor3837-3261-4430-a630-653232623863/11952653.jpg</picture>
+			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-686344616922-ag-002-gruzoblochnii-trenazher-dlya-vert</url>
+			<price>130100.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>629748238071</categoryId>
+			<weight>205</weight>
+			<dimensions>180.5/104/215</dimensions>
+		<barcode>7859759740100</barcode></offer>
+		<offer id="211543099872">
+			<name>AG-001 — Грузоблочный тренажёр «Пулловер»</name>
+			<vendor>DEXsport</vendor>
+			<vendorCode>AG-001</vendorCode>
+			<description>
+
+Пулловер — это одно из немногих упражнений, которое одновременно развивает грудные и спину. Движение в грузоблочном тренажёре «Пулловер» имитирует пулловер со штангой или гантелью, но выполняется в более безопасных и контролируемых условиях.&lt;br /&gt;&lt;br /&gt;Особенности конструкции:&lt;br /&gt;&lt;ul&gt;&lt;li data-list="bullet"&gt;Грузоблок 80 кг с защитным металлическим кожухом обеспечивает широкий диапазон нагрузок.&lt;/li&gt;&lt;li data-list="bullet"&gt;Механизм лёгкого старта позволяет плавно начать движение, снижая нагрузку на суставы и связки.&lt;/li&gt;&lt;li data-list="bullet"&gt;Регулировка сиденья с помощью шатунной системы на 8 подшипниках закрытого типа обеспечивает максимально плавный и лёгкий процесс настройки положения под рост спортсмена.&lt;/li&gt;&lt;li data-list="bullet"&gt;Усиленный профиль рамы 60х80 мм, толщина стенки 2 мм и износостойкие материалы гарантируют долговечность при интенсивной эксплуатации.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Тренажёр позволяет развивать мощный и рельефный верх тела, дополняя базовые упражнения на спину.&lt;br /&gt;&lt;br /&gt;Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+
+			</description>
+			<picture>https://static.tildacdn.com/stor3439-3937-4533-b830-633831363963/30322012.jpg</picture>
+			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-211543099872-ag-001-gruzoblochnii-trenazhyor-pullover</url>
+			<price>129800.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>629748238071</categoryId>
+			<dimensions>172/135/195</dimensions>
+		<barcode>4085081565910</barcode></offer>
+		<offer id="924063070512">
+			<name>AG-055 — Реабилитационный Грузоблочный тренажер Хаммер рычажная тяга (для инвалидов-колясочников)</name>
+			<vendor>DEXsport</vendor>
+			<vendorCode>AG-055</vendorCode>
+			<description>
+
+Профессиональный грузоблочный тренажёр «Рычажная тяга» для инвалидов предназначен для эффективной и безопасной проработки мышц спины, в первую очередь — широчайших. Движение по дугообразной траектории обеспечивает естественную амплитуду — от полного растяжения до максимального сокращения, что делает тренировку максимально физиологичной и результативной.&lt;br /&gt;&lt;br /&gt;Тренажёр оснащён механизмом, позволяющим убрать сиденье в сторону, что обеспечивает удобный доступ и возможность выполнения упражнения как обычным пользователям, так и людям с нарушениями опорно-двигательного аппарата, включая пользователей кресел-колясок. Такая конструкция делает тренажёр универсальным.&lt;br /&gt;&lt;br /&gt;Грузоблочная система позволяет быстро и удобно регулировать нагрузку, обеспечивая плавность хода и стабильность движения. Усиленная конструкция и эргономичный дизайн рассчитаны на интенсивное использование в коммерческих фитнес-залах.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Спинка и сиденье изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+
+			</description>
+			<picture>https://static.tildacdn.com/stor3238-3336-4633-b831-666633323031/39e7883fbb86b675c1acd875e38f38f5.jpg</picture>
+			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-924063070512-ag-055-reabilitatsionnii-gruzoblochnii-t</url>
+			<price>182200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>629748238071</categoryId>
+		<barcode>4247948036494</barcode></offer>
 		<offer id="625255408081">
 			<name>Стойка домкратная для пауэрлифтинга со скамьей, страховочными упорами и платформой для партнера</name>
 			<vendor>DEXsport</vendor>
 			<vendorCode>AP-001</vendorCode>
 			<description>
 
-Домкратная стойка со скамьей и страховочными упорами. Тренажер оснащен площадкой для страхующего с противоскользящими стальными накладками. Рычаг - домкрат позволяет легко менять высоту лежащей на ней штанги, не снимая ее со стоек.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 70х70 мм и 60*60 мм, толщина стенки 3 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Сиденье изготовлено из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется жесткий пенополиуретан и плотная искусственная кожа.&lt;br /&gt;&lt;br /&gt;Все торцы заварены стальными пластинами.&lt;br /&gt;&lt;br /&gt;Цвет рамы можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+Домкратная стойка со скамьей и страховочными упорами. Тренажер оснащен площадкой для страхующего с противоскользящими стальными накладками. Рычаг - домкрат позволяет легко менять высоту лежащей на ней штанги, не снимая ее со стоек. Максимальная грузоподъемность до 500 кг.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 70х70 мм и 60*60 мм, толщина стенки 3 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Сиденье изготовлено из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется жесткий пенополиуретан и плотная искусственная кожа.&lt;br /&gt;&lt;br /&gt;Все торцы заварены стальными пластинами.&lt;br /&gt;&lt;br /&gt;Цвет рамы можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
 
 			</description>
 			<picture>https://static.tildacdn.com/stor3438-6233-4537-b133-383637316463/73106232.jpg</picture>
 			<url>https://dexsport.ru/pauerlifting/tproduct/522717173-625255408081-stoika-domkratnaya-dlya-pauerliftinga-so</url>
-			<price>51400.00</price>
+			<price>56500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>554391283591</categoryId>
 			<weight>100</weight>
@@ -636,7 +716,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3931-3162-4638-a266-613635343465/78228044.jpg</picture>
 			<url>https://dexsport.ru/pauerlifting/tproduct/522717173-894754443671-sorevnovatelnaya-domkratnaya-stoika-dlya</url>
-			<price>113400.00</price>
+			<price>124700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>554391283591</categoryId>
 			<dimensions>177/227.2/145.5</dimensions>
@@ -652,10 +732,9 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3261-3730-4461-a536-326334363130/97944913.jpg</picture>
 			<url>https://dexsport.ru/shvedskie_stenki/tproduct/832532285-600354227672-shvedskaya-stenka-s-turnikom-blochnaya</url>
-			<price>39500.00</price>
+			<price>43500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>244041768272</categoryId>
-			<dimensions>82.2/121.5/236.2</dimensions>
 		<barcode>0636388051398</barcode></offer>
 		<offer id="505682867242">
 			<name>Шведская стенка с турником и брусьями</name>
@@ -668,10 +747,9 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6663-6536-4262-b536-366437643864/60139098.jpg</picture>
 			<url>https://dexsport.ru/shvedskie_stenki/tproduct/832532285-505682867242-shvedskaya-stenka-s-turnikom-i-brusyami</url>
-			<price>46900.00</price>
+			<price>51600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>244041768272</categoryId>
-			<dimensions>82.2/121.5/236.2</dimensions>
 		<barcode>5031056236377</barcode></offer>
 		<offer id="706768687162">
 			<name>Шведская стенка со скамьей для жима и пресса</name>
@@ -684,10 +762,9 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3937-6134-4664-b037-363330353239/89568140.jpg</picture>
 			<url>https://dexsport.ru/shvedskie_stenki/tproduct/832532285-706768687162-shvedskaya-stenka-so-skamei-dlya-zhima-i</url>
-			<price>53400.00</price>
+			<price>58700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>244041768272</categoryId>
-			<dimensions>82.2/121.5/236.2</dimensions>
 		<barcode>9241192757544</barcode></offer>
 		<offer id="721818306632">
 			<name>Шведская стенка с турником, брусьями и скамьей для пресса и жима</name>
@@ -700,13 +777,12 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3139-6465-4531-a339-363566313464/83390042.jpg</picture>
 			<url>https://dexsport.ru/shvedskie_stenki/tproduct/832532285-721818306632-shvedskaya-stenka-s-turnikom-brusyami-i</url>
-			<price>60900.00</price>
+			<price>67000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>244041768272</categoryId>
-			<dimensions>82.2/121.5/236.2</dimensions>
 		<barcode>0221433296451</barcode></offer>
 		<offer id="135426843442">
-			<name>Шведская стенка с турником блочная NEW</name>
+			<name>Шведская стенка с турником блочная разборная NEW</name>
 			<vendor>DEXsport</vendor>
 			<vendorCode>ШС-005</vendorCode>
 			<description>
@@ -715,14 +791,13 @@
 
 			</description>
 			<picture>https://static.tildacdn.com/stor3062-6462-4361-a362-636437613734/56835642.jpg</picture>
-			<url>https://dexsport.ru/shvedskie_stenki/tproduct/832532285-135426843442-shvedskaya-stenka-s-turnikom-blochnaya-n</url>
-			<price>39500.00</price>
+			<url>https://dexsport.ru/shvedskie_stenki/tproduct/832532285-135426843442-shvedskaya-stenka-s-turnikom-blochnaya-r</url>
+			<price>43500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>244041768272</categoryId>
-			<dimensions>82/80/234</dimensions>
 		<barcode>0368373187637</barcode></offer>
 		<offer id="613182497512">
-			<name>Шведская стенка с турником и брусьями NEW</name>
+			<name>Шведская стенка с турником и брусьями разборная NEW</name>
 			<vendor>DEXsport</vendor>
 			<vendorCode>ШС-006</vendorCode>
 			<description>
@@ -732,13 +807,13 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3339-6330-4235-a632-663335376661/74507601.jpg</picture>
 			<url>https://dexsport.ru/shvedskie_stenki/tproduct/832532285-613182497512-shvedskaya-stenka-s-turnikom-i-brusyami</url>
-			<price>46900.00</price>
+			<price>51600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>244041768272</categoryId>
-			<dimensions>82/80/234</dimensions>
 		<barcode>2434542158659</barcode></offer>
 		<offer id="678264305642">
 			<name>Многофункциональная силовая станция 7-в-1 на базе шведской стенки</name>
+			<vendor>DEXsport</vendor>
 			<vendorCode>ШС-009</vendorCode>
 			<description>
 
@@ -747,7 +822,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6237-3263-4162-b039-626261343531/71390924.jpg</picture>
 			<url>https://dexsport.ru/shvedskie_stenki/tproduct/832532285-678264305642-mnogofunktsionalnaya-silovaya-stantsiya</url>
-			<price>114500.00</price>
+			<price>126000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>244041768272</categoryId>
 		<barcode>8009309895180</barcode></offer>
@@ -762,7 +837,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3135-3935-4130-a533-353331383739/59211032.jpg</picture>
 			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-326598112481-trenazher-hammer-dlya-zhima-ot-grudi</url>
-			<price>96100.00</price>
+			<price>105700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
 			<weight>140</weight>
@@ -779,7 +854,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3339-3933-4534-b936-636264323638/39854661.jpg</picture>
 			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-780769116561-trenazher-serii-hammer-dlya-gorizontalno</url>
-			<price>108400.00</price>
+			<price>119200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
 			<weight>120</weight>
@@ -796,7 +871,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6264-6634-4838-b332-663765333730/77316556.jpg</picture>
 			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-843237006801-trenazher-hammer-richazhnaya-tyaga</url>
-			<price>78800.00</price>
+			<price>86700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
 			<weight>95</weight>
@@ -808,12 +883,12 @@
 			<vendorCode>AG-038</vendorCode>
 			<description>
 
-Грузоблочный Тренажер Хаммер жим от груди специально разработан для интенсивной тренировки грудных мышц. Его уникальная конструкция позволяет выполнять заданное упражнение по определенной дугообразной траектории, когда при старте атлет начинает жим с широкого хвата, а в процессе жима происходит сведение рук. Такая биомеханика обеспечивает полный охват амплитуды движения - от полного растяжения до максимального сокращения мышц груди. Жим вперед со сведением в положении сидя позволяет добиться предельной эффективности тренировки и быстро нарастить силу и объем грудных мышц.&lt;br /&gt;Спинка станка располагается под углом 45 градусов, классический угол хаммера имитация жима лежа.&lt;br /&gt;На тренажере установлен грузовой стек общим весом 100 кг.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Спинка и сиденье станка для жима от груди изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы тренажера рычажного типа вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер Хаммер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов ;хаммера для жима от груди, можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+Грузоблочный Тренажер Хаммер жим от груди специально разработан для интенсивной тренировки грудных мышц. Его уникальная конструкция позволяет выполнять заданное упражнение по определенной дугообразной траектории, когда при старте атлет начинает жим с широкого хвата, а в процессе жима происходит сведение рук. Такая биомеханика обеспечивает полный охват амплитуды движения - от полного растяжения до максимального сокращения мышц груди. Жим вперед со сведением в положении сидя позволяет добиться предельной эффективности тренировки и быстро нарастить силу и объем грудных мышц.&lt;br /&gt;Спинка станка располагается под углом 45 градусов, классический угол хаммера имитация жима лежа.&lt;br /&gt;На тренажере установлен грузовой стек общим весом 90 кг.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Спинка и сиденье станка для жима от груди изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы тренажера рычажного типа вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер Хаммер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов ;хаммера для жима от груди, можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
 
 			</description>
 			<picture>https://static.tildacdn.com/stor3630-3463-4137-b533-626233353165/58604744.jpg</picture>
 			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-328411937311-gruzoblochnii-trenazher-hammer-zhim-ot-g</url>
-			<price>137400.00</price>
+			<price>151100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
 			<weight>210</weight>
@@ -830,7 +905,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3063-3362-4134-a530-336136626230/81718033.jpg</picture>
 			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-814770253241-trenazher-hammer-zhim-vertikalnii-so-sve</url>
-			<price>95300.00</price>
+			<price>104800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
 			<weight>80</weight>
@@ -847,7 +922,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3231-6431-4232-b866-303131346134/61268801.jpg</picture>
 			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-846341973671-trenazher-hammer-zhim-ot-grudi-so-sveden</url>
-			<price>107600.00</price>
+			<price>118400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
 			<weight>150</weight>
@@ -864,7 +939,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3537-3263-4364-b735-306665366533/10932523.jpg</picture>
 			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-490092530381-hammer-zhim-ot-grudi-s-regulirovkoi-nach</url>
-			<price>135200.00</price>
+			<price>148700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
 			<weight>125</weight>
@@ -881,11 +956,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3965-6538-4238-a639-356230353662/41043575.jpg</picture>
 			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-929395481981-trenazher-hammer-dlya-zhim-lezha-ot-grud</url>
-			<price>71800.00</price>
+			<price>79000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
 			<weight>90</weight>
-			<dimensions>170/175/92</dimensions>
+			<dimensions>172/178/92.5</dimensions>
 		<barcode>4223395234775</barcode></offer>
 		<offer id="489424532512">
 			<name>Тренажер Хаммер для спины Вертикальная тяга</name>
@@ -898,7 +973,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3065-3663-4032-b130-653238623037/87098933.jpg</picture>
 			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-489424532512-trenazher-hammer-dlya-spini-vertikalnaya</url>
-			<price>93400.00</price>
+			<price>102700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
 			<weight>90</weight>
@@ -906,6 +981,7 @@
 		<barcode>1149392002939</barcode></offer>
 		<offer id="821060467742">
 			<name>AD-063 — Жим от груди вперед-вниз со сведением</name>
+			<vendor>DEXsport</vendor>
 			<vendorCode>AD-063</vendorCode>
 			<description>
 
@@ -914,7 +990,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3865-3636-4461-b430-373130323163/62994582.jpg</picture>
 			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-821060467742-ad-063-zhim-ot-grudi-vpered-vniz-so-sved</url>
-			<price>113500.00</price>
+			<price>124900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
 			<dimensions>157/202/151</dimensions>
@@ -930,9 +1006,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3032-6137-4230-b637-313962303463/58689579.jpg</picture>
 			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-860915290802-ad-066-trenazher-hammer-dlya-zhima-lezha</url>
-			<price>82700.00</price>
+			<price>91000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
+			<weight>100</weight>
+			<dimensions>200/178/92.5</dimensions>
 		<barcode>1352338335866</barcode></offer>
 		<offer id="618337941832">
 			<name>AD-065 — Тренажер Хаммер жим от груди + Вертикальная тяга</name>
@@ -945,10 +1023,58 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6333-3665-4434-b564-363233353562/24840068.jpg</picture>
 			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-618337941832-ad-065-trenazher-hammer-zhim-ot-grudi-ve</url>
-			<price>133800.00</price>
+			<price>147200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>282715213631</categoryId>
+			<dimensions>315/123.6/198</dimensions>
 		<barcode>4859180309900</barcode></offer>
+		<offer id="300946582692">
+			<name>AG-053 — Грузоблочный тренажер Хаммер рычажная тяга</name>
+			<vendor>DEXsport</vendor>
+			<vendorCode>AG-053</vendorCode>
+			<description>
+
+Грузоблочный тренажер «Рычажная тяга» разработан для эффективной и безопасной проработки мышц спины, в первую очередь широчайших. Движение по дугообразной траектории обеспечивает естественную амплитуду — от полного растяжения до максимального сокращения.&lt;br /&gt;Тренажер оснащён грузовым стеком, что позволяет быстро и удобно регулировать нагрузку без использования блинов. Такая конструкция обеспечивает стабильность, плавность хода и комфорт при тренировке.&lt;br /&gt;&lt;br /&gt;Вес стека - 120 кг.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Спинка и сиденье изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+
+			</description>
+			<picture>https://static.tildacdn.com/stor3461-3831-4533-b835-326361643266/18116308.jpg</picture>
+			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-300946582692-ag-053-gruzoblochnii-trenazher-hammer-ri</url>
+			<price>145800.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>282715213631</categoryId>
+			<weight>135</weight>
+			<dimensions>173.5/139/199.5</dimensions>
+		<barcode>8587907039057</barcode></offer>
+		<offer id="924063070512">
+			<name>AG-055 — Реабилитационный Грузоблочный тренажер Хаммер рычажная тяга (для инвалидов-колясочников)</name>
+			<vendor>DEXsport</vendor>
+			<vendorCode>AG-055</vendorCode>
+			<description>
+
+Профессиональный грузоблочный тренажёр «Рычажная тяга» для инвалидов предназначен для эффективной и безопасной проработки мышц спины, в первую очередь — широчайших. Движение по дугообразной траектории обеспечивает естественную амплитуду — от полного растяжения до максимального сокращения, что делает тренировку максимально физиологичной и результативной.&lt;br /&gt;&lt;br /&gt;Тренажёр оснащён механизмом, позволяющим убрать сиденье в сторону, что обеспечивает удобный доступ и возможность выполнения упражнения как обычным пользователям, так и людям с нарушениями опорно-двигательного аппарата, включая пользователей кресел-колясок. Такая конструкция делает тренажёр универсальным.&lt;br /&gt;&lt;br /&gt;Грузоблочная система позволяет быстро и удобно регулировать нагрузку, обеспечивая плавность хода и стабильность движения. Усиленная конструкция и эргономичный дизайн рассчитаны на интенсивное использование в коммерческих фитнес-залах.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Спинка и сиденье изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+
+			</description>
+			<picture>https://static.tildacdn.com/stor3238-3336-4633-b831-666633323031/39e7883fbb86b675c1acd875e38f38f5.jpg</picture>
+			<url>https://dexsport.ru/gruzoblochnye-trenajery/tproduct/507293541-924063070512-ag-055-reabilitatsionnii-gruzoblochnii-t</url>
+			<price>182200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>282715213631</categoryId>
+		<barcode>4247948036494</barcode></offer>
+		<offer id="844770886012">
+			<name>AD-067 — Реабилитационный тренажер рычажная тяга сидя на св. весах (для инвалидов-колясочников)</name>
+			<vendor>DEXsport</vendor>
+			<vendorCode>AD-067</vendorCode>
+			<description>
+
+Профессиональный тренажёр «Рычажная тяга» на свободных весах разработан для эффективной проработки мышц спины, особенно широчайших. Движение по дугообразной траектории повторяет естественную биомеханику тела, обеспечивая полную амплитуду — от растяжения до максимального сокращения, что делает тренировку безопасной и физиологичной.&lt;br /&gt;&lt;br /&gt;Тренажёр оснащён механизмом подвижного сиденья, которое может отъезжать назад. Это обеспечивает удобный доступ и позволяет использовать тренажёр не только обычным пользователям, но и людям с нарушениями опорно-двигательного аппарата, включая людей в креслах-колясках.&lt;br /&gt;&lt;br /&gt;Использование свободных весов вместо грузового стека делает конструкцию экономичнее и более вариативной по нагрузке, поскольку можно регулировать вес с шагом даже 0,5 кг. Такая модель идеально подходит для небольших залов и реабилитационных центров, где уже есть запас блинов для нагружения тренажёров.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Спинка и сиденье изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Накопитель для нагрузки может быть выполнен размерами 26, 31, 51 мм.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+
+			</description>
+			<picture>https://static.tildacdn.com/stor6631-3331-4237-a138-316635633462/4e5abb7f81ec7f8f86e0bed561bb0a09.jpg</picture>
+			<url>https://dexsport.ru/trenajery-hammer/tproduct/522710984-844770886012-ad-067-reabilitatsionnii-trenazher-richa</url>
+			<price>108400.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>282715213631</categoryId>
+		<barcode>2967587084107</barcode></offer>
 		<offer id="690734738451">
 			<name>Тренажер Голень-машина (Сидя) на свободных весах</name>
 			<vendor>DEXsport</vendor>
@@ -960,11 +1086,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3039-3437-4835-a232-356532333663/81357357.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-690734738451-trenazher-golen-mashina-sidya-na-svobodn</url>
-			<price>40000.00</price>
+			<price>44000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>90</weight>
-			<dimensions>104.5/70/107</dimensions>
+			<dimensions>145/70/107</dimensions>
 		<barcode>3060314618268</barcode></offer>
 		<offer id="900555453831">
 			<name>Тренажер машина Смита с противовесом</name>
@@ -977,11 +1103,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6536-3661-4364-b131-653936363232/87781194.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-900555453831-trenazher-mashina-smita-s-protivovesom</url>
-			<price>112700.00</price>
+			<price>124000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<weight>120</weight>
-			<dimensions>155/225/251</dimensions>
+			<weight>220</weight>
+			<dimensions>143.5/221/255.5</dimensions>
 		<barcode>5251099275830</barcode></offer>
 		<offer id="463719642341">
 			<name>Тренажер машина Смита</name>
@@ -994,11 +1120,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3730-6530-4930-b764-613735616564/84315372.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-463719642341-trenazher-mashina-smita</url>
-			<price>102800.00</price>
+			<price>113100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<weight>100</weight>
-			<dimensions>126/220/240</dimensions>
+			<weight>200</weight>
+			<dimensions>143.5/221/255.5</dimensions>
 		<barcode>4588110064229</barcode></offer>
 		<offer id="815836118001">
 			<name>Тренажер для предплечий с вращением кисти (четыре движения)</name>
@@ -1011,11 +1137,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6461-3263-4337-b362-383030333466/70928517.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-815836118001-trenazher-dlya-predplechii-s-vrascheniem</url>
-			<price>32800.00</price>
+			<price>36100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>40</weight>
-			<dimensions>73/111/141</dimensions>
+			<dimensions>73/111/140</dimensions>
 		<barcode>0896061185042</barcode></offer>
 		<offer id="876383956581">
 			<name>Универсальный тренажер Жим ногами + Гакк-присед</name>
@@ -1028,7 +1154,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6363-3331-4433-b731-353234303562/78017501.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-876383956581-universalnii-trenazher-zhim-nogami-gakk</url>
-			<price>124800.00</price>
+			<price>137300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>155</weight>
@@ -1045,11 +1171,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3465-6661-4561-a638-653566363138/63660742.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-586770035451-trenazher-gakkenshmidta</url>
-			<price>110600.00</price>
+			<price>121700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>165</weight>
-			<dimensions>250/114/161</dimensions>
+			<dimensions>239/113/163</dimensions>
 		<barcode>7419396109984</barcode></offer>
 		<offer id="874853720241">
 			<name>Тренажер для жима ногами</name>
@@ -1062,11 +1188,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3363-3939-4164-b734-386663306437/87309022.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-874853720241-trenazher-dlya-zhima-nogami</url>
-			<price>110600.00</price>
+			<price>121700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>140</weight>
-			<dimensions>238/113/152</dimensions>
+			<dimensions>241/100/170.5</dimensions>
 		<barcode>7360014188624</barcode></offer>
 		<offer id="916148392161">
 			<name>Тренажер Брусья (Жим вниз) + Тяга на трицепс</name>
@@ -1079,11 +1205,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3033-6138-4466-b131-393136323136/60818580.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-916148392161-trenazher-brusya-zhim-vniz-tyaga-na-trit</url>
-			<price>62100.00</price>
+			<price>68300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>50</weight>
-			<dimensions>190/84/190</dimensions>
+			<dimensions>190/84/170</dimensions>
 		<barcode>8040332205058</barcode></offer>
 		<offer id="569810811211">
 			<name>Тренажер для раздельного жима ногами</name>
@@ -1096,7 +1222,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6531-3139-4265-b261-633732613534/48393529.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-569810811211-trenazher-dlya-razdelnogo-zhima-nogami</url>
-			<price>183200.00</price>
+			<price>201500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>155</weight>
@@ -1113,7 +1239,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3266-6232-4833-b830-633335356430/82218045.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-644875092341-zhim-nogami-vertikalnii</url>
-			<price>100800.00</price>
+			<price>110900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>180</weight>
@@ -1130,7 +1256,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3032-6366-4238-b537-346232346165/10354258.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-691923551441-trenazher-delta-mashina-na-svobodnih-ves</url>
-			<price>75400.00</price>
+			<price>82900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>85</weight>
@@ -1147,7 +1273,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3863-3739-4466-a264-353666343833/57994588.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-231980867011-bitseps-tritseps-mashina-na-svobodnih-ve</url>
-			<price>71400.00</price>
+			<price>78500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>65</weight>
@@ -1164,7 +1290,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3766-3635-4231-b263-303833643137/88575724.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-837947082641-trenazher-vertikalnii-zhim-na-svobodnih</url>
-			<price>73800.00</price>
+			<price>81200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>85</weight>
@@ -1181,7 +1307,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3235-6364-4737-b431-656465323662/47170986.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-129608998461-trenazher-dlya-yagodichnih-mishts</url>
-			<price>90700.00</price>
+			<price>99800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>75</weight>
@@ -1198,7 +1324,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3733-3930-4166-b436-393165333536/22266977.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-419894919051-trenazher-yagodichnii-mostik-lezha-usile</url>
-			<price>117700.00</price>
+			<price>129500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>95</weight>
@@ -1215,7 +1341,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6237-3332-4466-b739-646533306463/74468863.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-307194376591-t-obraznii-grif-shtok</url>
-			<price>32100.00</price>
+			<price>35300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>55</weight>
@@ -1232,7 +1358,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3065-6333-4362-b632-313335393334/58510030.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-390484039491-t-obraznii-grif-shtok-s-uporom-v-grud</url>
-			<price>48600.00</price>
+			<price>53500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>42.3</weight>
@@ -1249,7 +1375,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3237-3465-4865-b639-363438653861/44080138.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-958142382861-trenazher-dlya-privodyaschih-i-otvodyasc</url>
-			<price>88200.00</price>
+			<price>97000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<weight>95</weight>
@@ -1266,7 +1392,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3938-6334-4638-b136-663965663036/55214117.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-865659168691-trenazher-yagodichnii-mostik-stoya</url>
-			<price>95300.00</price>
+			<price>104800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 		<barcode>7107290892193</barcode></offer>
@@ -1281,7 +1407,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6438-6664-4463-b630-313661303034/67394537.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-829483756921-trenazher-dlya-otvodyaschih-mishts-bedra</url>
-			<price>124800.00</price>
+			<price>137300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 		<barcode>9692359089709</barcode></offer>
@@ -1291,12 +1417,12 @@
 			<vendorCode>AD-057</vendorCode>
 			<description>
 
-Тренажер для приводящих мышц бедра в положении стоя предназначен для проработки приводящих мышц, отвечающих за сведение ног. По сравнению с выполнением данного упражнений на тренажере для приводящих мышц сидя, стоячее положение требует дополнительной стабилизации тела за счет вовлечения мышц-стабилизаторов. Это увеличивает общую нагрузку на приводящие мышцы. Регулируя угол сгибания ног в коленях можно дополнительно задействовать ягодичные мышцы. Станок для сведения ног стоя обеспечивает более функциональную и интенсивную тренировку этой группы мышц, способствуя развитию силы, выносливости и стабильности.&lt;br /&gt;&lt;br /&gt;Несущая конструкция#nbsp; тренажера для бедер изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Спинка и сиденье станка для приводящих мышц изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы вращения тренажера для внутренней части бедра оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Накопитель для нагрузки#nbsp;тренажера для внутренней поверхности бедра может быть выполнен размерами 26, 31, 51 мм.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+Тренажер для приводящих мышц бедра в положении стоя предназначен для проработки приводящих мышц, отвечающих за сведение ног. По сравнению с выполнением данного упражнений на тренажере для приводящих мышц сидя, стоячее положение требует дополнительной стабилизации тела за счет вовлечения мышц-стабилизаторов. Это увеличивает общую нагрузку на приводящие мышцы. Регулируя угол сгибания ног в коленях можно дополнительно задействовать ягодичные мышцы. Станок для сведения ног стоя обеспечивает более функциональную и интенсивную тренировку этой группы мышц, способствуя развитию силы, выносливости и стабильности.&lt;br /&gt;&lt;br /&gt;Несущая конструкция тренажера для бедер изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Спинка и сиденье станка для приводящих мышц изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы вращения тренажера для внутренней части бедра оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Накопитель для нагрузки тренажера для внутренней поверхности бедра может быть выполнен размерами 26, 31, 51 мм.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
 
 			</description>
 			<picture>https://static.tildacdn.com/stor3961-6339-4930-a537-616365643030/75305534.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-411490732161-trenazher-dlya-privodyaschih-mishts-bedr</url>
-			<price>124800.00</price>
+			<price>137300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 		<barcode>1683001169632</barcode></offer>
@@ -1311,7 +1437,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3861-3833-4234-b730-656536323462/10135433.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-792937109542-trenazher-dlya-tyagi-shragi</url>
-			<price>77900.00</price>
+			<price>85700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<dimensions>137/163/90.5</dimensions>
@@ -1327,7 +1453,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3130-6631-4138-b539-376532623834/73900775.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-487613329042-trenazher-dlya-pressa-stiskivanie-sidya</url>
-			<price>105300.00</price>
+			<price>115800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 		<barcode>2115652416968</barcode></offer>
@@ -1342,7 +1468,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3535-3834-4633-a234-306465303263/42894418.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-724228137932-trenazher-obratnaya-giperekstenziya</url>
-			<price>105300.00</price>
+			<price>115800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<dimensions>190/91/116.5</dimensions>
@@ -1358,7 +1484,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6366-6638-4535-a530-643734336438/87078884.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-846269561732-trenazher-dlya-bortsov-bik</url>
-			<price>101400.00</price>
+			<price>111500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<dimensions>144/129/206</dimensions>
@@ -1374,10 +1500,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3535-6331-4464-b735-323230323634/21499752.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-407587261482-ad-061-trenazher-smita-silovaya-rama</url>
-			<price>138900.00</price>
+			<price>152800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
-			<dimensions>170/220/252</dimensions>
+			<weight>210</weight>
+			<dimensions>181/220/255</dimensions>
 		<barcode>7143217414970</barcode></offer>
 		<offer id="708213346592">
 			<name>Тренажер ягодичный мостик лежа (нагрузка до 350кг)</name>
@@ -1390,13 +1517,15 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3962-6566-4332-b665-656331643633/95173073.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-708213346592-trenazher-yagodichnii-mostik-lezha-nagru</url>
-			<price>101700.00</price>
+			<price>111900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
+			<weight>95</weight>
 			<dimensions>186/161/105</dimensions>
 		<barcode>8156577675508</barcode></offer>
 		<offer id="653071461492">
 			<name>AD-051 — Тренажер для приседаний с поясом «Колодец» с турником и брусьями</name>
+			<vendor>DEXsport</vendor>
 			<vendorCode>AD-051</vendorCode>
 			<description>
 
@@ -1405,12 +1534,13 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6539-6436-4937-b363-386639663166/95053617.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-653071461492-ad-051-trenazher-dlya-prisedanii-s-poyas</url>
-			<price>114500.00</price>
+			<price>126000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 		<barcode>8360952300606</barcode></offer>
 		<offer id="823417993122">
 			<name>AD-017 — Тренажер для бицепса бедра на свободных весах</name>
+			<vendor>DEXsport</vendor>
 			<vendorCode>AD-017</vendorCode>
 			<description>
 
@@ -1419,7 +1549,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3232-6235-4361-b939-303034366139/53085751.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-823417993122-ad-017-trenazher-dlya-bitsepsa-bedra-na</url>
-			<price>79700.00</price>
+			<price>87700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 			<dimensions>170/114/78</dimensions>
@@ -1435,10 +1565,26 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6231-6261-4963-b933-393762333938/70942857.jpg</picture>
 			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-654557430592-sani-dlya-krossfita-dexsport</url>
-			<price>27900.00</price>
+			<price>30700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>405464406601</categoryId>
 		<barcode>6921471461241</barcode></offer>
+		<offer id="351669412262">
+			<name>AD-006 — Тренажер голень стоя на свободных весах</name>
+			<vendor>DEXsport</vendor>
+			<vendorCode>AD-006</vendorCode>
+			<description>
+
+Тренажер «Голень стоя» на свободных весах — эффективное оборудование для прокачки икроножных мышц. Конструкция позволяет работать с собственным весом и дополнительной нагрузкой (блины), обеспечивая естественную амплитуду движений и равномерную проработку мышц голени. Подходит для профессиональных и домашних залов.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Накопитель для нагрузки может быть выполнен размерами 26, 31, 51 мм.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+
+			</description>
+			<picture>https://static.tildacdn.com/stor6634-3764-4532-a431-366531376362/25931766.jpg</picture>
+			<url>https://dexsport.ru/trenajery-na-cvobodnyh-vesah/tproduct/515077212-351669412262-ad-006-trenazher-golen-stoya-na-svobodni</url>
+			<price>99400.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405464406601</categoryId>
+			<dimensions>150/87/182.5</dimensions>
+		<barcode>4674668324684</barcode></offer>
 		<offer id="195525204062">
 			<name>Брусья уличные одинарные</name>
 			<vendor>DEXsport</vendor>
@@ -1450,7 +1596,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3039-6539-4637-b363-643361363965/60353398.jpg</picture>
 			<url>https://dexsport.ru/workout/tproduct/851947301-195525204062-brusya-ulichnie-odinarnie</url>
-			<price>31900.00</price>
+			<price>35100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>636994746392</categoryId>
 		<barcode>3393079942065</barcode></offer>
@@ -1465,7 +1611,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6337-3030-4431-b761-646338663336/64173740.jpg</picture>
 			<url>https://dexsport.ru/workout/tproduct/851947301-733276342092-brusya-ulichnie-raznourovnevie</url>
-			<price>42300.00</price>
+			<price>46500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>636994746392</categoryId>
 		<barcode>2392853123455</barcode></offer>
@@ -1480,7 +1626,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3132-3633-4334-a165-383530666462/84152257.jpg</picture>
 			<url>https://dexsport.ru/workout/tproduct/852093208-483929491792-rukohod-ulichnii</url>
-			<price>39400.00</price>
+			<price>43300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>575266672302</categoryId>
 		<barcode>8481110961214</barcode></offer>
@@ -1495,7 +1641,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3739-3538-4132-b434-346561353134/92619612.jpg</picture>
 			<url>https://dexsport.ru/workout/tproduct/852093208-889807249222-rukohod-ulichnii-dvoinoi</url>
-			<price>69500.00</price>
+			<price>76500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>575266672302</categoryId>
 		<barcode>0933747034376</barcode></offer>
@@ -1510,7 +1656,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3835-6563-4633-a261-636330326534/64460019.jpg</picture>
 			<url>https://dexsport.ru/workout/tproduct/852093208-933134596202-rukohod-ulichnii-troinoi</url>
-			<price>88300.00</price>
+			<price>97100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>575266672302</categoryId>
 		<barcode>7075623826811</barcode></offer>
@@ -1525,7 +1671,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3836-3963-4161-a630-356132303738/48361468.jpg</picture>
 			<url>https://dexsport.ru/workout/tproduct/851952403-630435647192-ulichnaya-shvedskaya-stenka</url>
-			<price>29400.00</price>
+			<price>32300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>227148750242</categoryId>
 		<barcode>6903368765908</barcode></offer>
@@ -1540,7 +1686,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3862-3662-4334-a139-613764336461/29881909.jpg</picture>
 			<url>https://dexsport.ru/workout/tproduct/851984579-909705956472-skamya-dlya-pressa-ulichnaya</url>
-			<price>31200.00</price>
+			<price>34300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>467602980072</categoryId>
 		<barcode>1784358203748</barcode></offer>
@@ -1555,7 +1701,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6538-3965-4237-b734-376534343434/16349030.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-810868804452-ulichnii-trenazher-zhim-ot-grudi</url>
-			<price>55300.00</price>
+			<price>60800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>8981065842274</barcode></offer>
@@ -1570,7 +1716,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3364-3762-4430-b637-323966393338/72650953.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-647957619002-ulichnii-trenazher-greblya</url>
-			<price>53300.00</price>
+			<price>58600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>0293210317826</barcode></offer>
@@ -1585,9 +1731,10 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3132-3762-4265-b030-383535353162/75925789.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-495329794572-ulichnii-ellipticheskii-trenazher</url>
-			<price>53200.00</price>
+			<price>58500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
+			<dimensions>102.5/54.5/162.5</dimensions>
 		<barcode>6328164289180</barcode></offer>
 		<offer id="500511688252">
 			<name>Уличный шаговый тренажер</name>
@@ -1600,7 +1747,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6433-6636-4063-a236-396164303635/27389611.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-500511688252-ulichnii-shagovii-trenazher</url>
-			<price>48100.00</price>
+			<price>52900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>7370795598734</barcode></offer>
@@ -1615,7 +1762,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6563-6163-4761-a264-303937396264/67869282.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-274429652762-ulichnii-trenazher-dlya-nog-ds-0160</url>
-			<price>52100.00</price>
+			<price>57300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>0478166430854</barcode></offer>
@@ -1630,7 +1777,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3534-3934-4763-b035-336462316137/75407631.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-785956565952-ulichnii-trenazher-zhim-nogami-ds-0180</url>
-			<price>55300.00</price>
+			<price>60800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>4623270848330</barcode></offer>
@@ -1645,7 +1792,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3735-3265-4566-b466-353539336636/73154173.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-363918724732-ulichnii-trenazher-tvister</url>
-			<price>51900.00</price>
+			<price>57100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>3026264007286</barcode></offer>
@@ -1660,7 +1807,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3930-3935-4364-b737-353335623632/34726069.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-269888435052-ulichnii-trenazher-tvister-sidya</url>
-			<price>54300.00</price>
+			<price>59700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>6950043341216</barcode></offer>
@@ -1675,9 +1822,10 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6337-6339-4063-a232-323235643830/99703701.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-912550453382-ulichnii-trenazher-velosiped</url>
-			<price>30300.00</price>
+			<price>33300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
+			<dimensions>95/92/89</dimensions>
 		<barcode>5506576854238</barcode></offer>
 		<offer id="174736925762">
 			<name>Уличный тренажер лыжник</name>
@@ -1685,14 +1833,15 @@
 			<vendorCode>DS-0010</vendorCode>
 			<description>
 
-Тренажер лыжник имитирует движения на лыжах, тренируя мышцы ног, рук и кора. Идеален для кардиотренировок на свежем воздухе. &lt;br /&gt; &lt;br /&gt; Технические характеристики товара:&lt;br /&gt; &lt;br /&gt; • Основание стоек: труба 108×3,5 мм или профиль 100×100×3мм.&lt;br /&gt; • Рычаги: трубы Ø42 и 48×3,5 мм.&lt;br /&gt; • Покрытие: порошковое, два слоя с применением цинкогрунта.&lt;br /&gt; • Листы и пластины толщиной 5 мм.&lt;br /&gt; • Основания: 250×600 мм, 250×250 мм, 250×400 мм.&lt;br /&gt; • Колпачки и заглушки: пластик.&lt;br /&gt; • Подземное основание: глубина 700 мм.&lt;br /&gt; • Крепление: болтовое.&lt;br /&gt; • Выбор цвета по каталогу RAL.
+Тренажер лыжник имитирует движения на лыжах, тренируя мышцы ног, рук и кора. Идеален для кардиотренировок на свежем воздухе. &lt;br /&gt;&lt;br /&gt;Технические характеристики товара:&lt;br /&gt;&lt;br /&gt;• Основание стоек: труба 108×3,5 мм или профиль 100×100×3мм.&lt;br /&gt;• Рычаги: трубы Ø42 и 48×3,5 мм.&lt;br /&gt;• Покрытие: порошковое, два слоя с применением цинкогрунта.&lt;br /&gt;• Листы и пластины толщиной 5 мм.&lt;br /&gt;• Основания: 250×600 мм, 250×250 мм, 250×400 мм.&lt;br /&gt;• Колпачки и заглушки: пластик.&lt;br /&gt;• Подземное основание: глубина 700 мм.&lt;br /&gt;• Крепление: болтовое.&lt;br /&gt;• Выбор цвета по каталогу RAL.&lt;br /&gt;&lt;br /&gt;Размеры (ДхШхВ): 955х605х1560
 
 			</description>
-			<picture>https://static.tildacdn.com/stor3531-3939-4563-b462-363132346131/89588400.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3239-3062-4961-b064-643164383362/91723230.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-174736925762-ulichnii-trenazher-lizhnik</url>
-			<price>48000.00</price>
+			<price>52800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
+			<dimensions>95.5/60.5/156</dimensions>
 		<barcode>5425660934789</barcode></offer>
 		<offer id="533256241552">
 			<name>Уличный тренажер лыжник двойной</name>
@@ -1705,7 +1854,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3965-3661-4836-b836-376534386634/48829696.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-533256241552-ulichnii-trenazher-lizhnik-dvoinoi</url>
-			<price>53100.00</price>
+			<price>58400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 			<dimensions>130/58.5/160</dimensions>
@@ -1721,7 +1870,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6234-6232-4135-b131-353466363136/60550054.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-239607481362-ulichnii-trenazher-verhnyaya-tyaga</url>
-			<price>55800.00</price>
+			<price>61400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 			<dimensions>141/123/185</dimensions>
@@ -1737,7 +1886,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3534-3137-4331-b865-353232623466/32985448.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-470616768592-ulichnii-trenazher-mayatnik</url>
-			<price>52400.00</price>
+			<price>57600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>7204823571621</barcode></offer>
@@ -1752,7 +1901,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6132-6563-4232-a437-656665356463/26009897.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-886423495062-ulichnii-trenazher-stepper</url>
-			<price>38500.00</price>
+			<price>42400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>7103984069544</barcode></offer>
@@ -1767,7 +1916,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6164-3666-4332-b339-373361376566/14265900.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-840821383712-ulichnii-trenazher-giperekstenziya</url>
-			<price>24200.00</price>
+			<price>26600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>6938959593974</barcode></offer>
@@ -1782,7 +1931,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6335-3531-4165-a362-396133613262/79427825.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-955636015922-ulichnii-trenazher-velosiped-stepper</url>
-			<price>58500.00</price>
+			<price>64400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 			<dimensions>122/95/165</dimensions>
@@ -1798,7 +1947,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6361-3866-4234-b931-386566656337/75612356.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-725007257532-ulichnii-trenazher-batterflyai</url>
-			<price>54600.00</price>
+			<price>60100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>0128481543455</barcode></offer>
@@ -1813,7 +1962,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6635-6266-4735-b438-663230333432/79890517.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-329342531732-ulichnii-trenazher-turnik-brusya-press-3</url>
-			<price>34100.00</price>
+			<price>37500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>0466661622850</barcode></offer>
@@ -1828,7 +1977,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6263-6134-4232-a436-363261616534/54362820.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-219437007532-ulichnii-trenazher-brusya-dvoinie</url>
-			<price>34100.00</price>
+			<price>37500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>4813395467770</barcode></offer>
@@ -1843,7 +1992,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3464-3165-4666-b535-623937353864/68848927.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-535610139822-ulichnii-trenazher-shpagat</url>
-			<price>47300.00</price>
+			<price>52000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>2778767536992</barcode></offer>
@@ -1858,7 +2007,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3030-3938-4561-b465-643638653664/41158945.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-750965630032-ulichnii-trenazher-skamya-dlya-pressa</url>
-			<price>22600.00</price>
+			<price>24900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>1436215206286</barcode></offer>
@@ -1873,7 +2022,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6464-3433-4666-b537-343362616261/14252510.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-726688868852-begovaya-dorozhka-ulichnaya</url>
-			<price>78200.00</price>
+			<price>86000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>1658376412577</barcode></offer>
@@ -1888,7 +2037,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3062-3933-4762-b938-303565363661/35953737.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-928791575092-ulichnii-trenazher-giperekstenziya-skamy</url>
-			<price>45000.00</price>
+			<price>49500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>2778767536992</barcode></offer>
@@ -1903,7 +2052,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3733-6566-4531-b535-663239656362/86273783.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-125247464292-ulichnii-trenazher-fleks</url>
-			<price>31000.00</price>
+			<price>34100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>6938959593974</barcode></offer>
@@ -1918,7 +2067,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3939-3565-4439-b639-356263363831/36863973.jpg</picture>
 			<url>https://dexsport.ru/ulichnye_trenazhery/tproduct/848945275-347760857342-ulichnii-trenazher-tyaga-gorizontalnaya</url>
-			<price>53700.00</price>
+			<price>59100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>505257754031</categoryId>
 		<barcode>2529582302305</barcode></offer>
@@ -1933,7 +2082,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6464-6435-4637-a132-306637303565/91768878.jpg</picture>
 			<url>https://dexsport.ru/workout/tproduct/851551754-170414635012-ulichnii-turnik-odinarnii</url>
-			<price>17000.00</price>
+			<price>18700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>745176365112</categoryId>
 		<barcode>5507685130404</barcode></offer>
@@ -1948,7 +2097,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6532-3734-4433-b164-376163383638/18752560.jpg</picture>
 			<url>https://dexsport.ru/workout/tproduct/851551754-786883069232-ulichnii-turnik-dvoinoi</url>
-			<price>25500.00</price>
+			<price>28100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>745176365112</categoryId>
 		<barcode>8757243804422</barcode></offer>
@@ -1963,7 +2112,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6430-6235-4136-b436-323436643761/85856304.jpg</picture>
 			<url>https://dexsport.ru/workout/tproduct/851551754-325253905532-ulichnii-turnik-trehurovnevii-treugolnik</url>
-			<price>29800.00</price>
+			<price>32800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>745176365112</categoryId>
 		<barcode>6085896247207</barcode></offer>
@@ -1978,7 +2127,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3531-3737-4231-a137-343133343637/80367750.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-593050504391-giperekstenziya-gorizontalnaya</url>
-			<price>30100.00</price>
+			<price>33100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>35</weight>
@@ -1995,11 +2144,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3437-6132-4734-a436-383364666133/62033114.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-940228708931-giperekstenziya-naklonnaya-45-gradusov</url>
-			<price>28300.00</price>
+			<price>31100.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<weight>35</weight>
-			<dimensions>168/63/100</dimensions>
+			<weight>38</weight>
+			<dimensions>142/88.5/96</dimensions>
 		<barcode>6261321890761</barcode></offer>
 		<offer id="395164504861">
 			<name>Скамья для жима со страховочными упорами</name>
@@ -2012,11 +2161,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3932-6662-4536-b235-613333303339/73062136.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-395164504861-skamya-dlya-zhima-so-strahovochnimi-upor</url>
-			<price>36300.00</price>
+			<price>39900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>90</weight>
-			<dimensions>168/63/100</dimensions>
+			<dimensions>137.5/131/129</dimensions>
 		<barcode>1293611807864</barcode></offer>
 		<offer id="649607056271">
 			<name>Скамья для пресса</name>
@@ -2029,11 +2178,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6665-6330-4162-a237-353166373234/59459457.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-649607056271-skamya-dlya-pressa</url>
-			<price>31600.00</price>
+			<price>34800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<weight>30</weight>
-			<dimensions>178/72.5/51</dimensions>
+			<weight>40</weight>
+			<dimensions>167/81.5/67.5</dimensions>
 		<barcode>8104347321773</barcode></offer>
 		<offer id="321328835891">
 			<name>Скамья универсальная профессиональная</name>
@@ -2046,11 +2195,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3838-6266-4465-a562-663734636139/40865072.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-321328835891-skamya-universalnaya-professionalnaya</url>
-			<price>24100.00</price>
+			<price>26500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>30</weight>
-			<dimensions>143/63/45</dimensions>
+			<dimensions>148/74.5/44.5</dimensions>
 		<barcode>3538721781412</barcode></offer>
 		<offer id="855934653711">
 			<name>Скамья Скотта</name>
@@ -2063,11 +2212,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3063-6434-4862-b262-316262353433/86771000.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-855934653711-skamya-skotta</url>
-			<price>26900.00</price>
+			<price>29600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>40</weight>
-			<dimensions>89.5/96.5/104.5</dimensions>
+			<dimensions>89.5/97/104.5</dimensions>
 		<barcode>9688124408639</barcode></offer>
 		<offer id="338846440251">
 			<name>Скамья для жима лежа со страховочными упорами и упором для партнера</name>
@@ -2080,7 +2229,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6330-6263-4530-b965-666136636131/73475244.png</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-338846440251-skamya-dlya-zhima-lezha-so-strahovochnim</url>
-			<price>37500.00</price>
+			<price>41300.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>90</weight>
@@ -2092,16 +2241,16 @@
 			<vendorCode>AS-021</vendorCode>
 			<description>
 
-Стойка для приседаний со штангой - залог эффективных и безопасных тренировок. Это универсальное устройство для выполнения приседаний с отягощением, не имеющее аналогов по скорости накачки мышц. &lt;br /&gt;&lt;br /&gt;Приседания со штангой позволяют комплексно проработать все группы мышц нижней части тела: приводящие мышцы бедер и ягодиц, квадрицепсы, а также мышцы груди, спины и рук. Прочная страховочная конструкция с регулировкой (3 положения) делает упражнение максимально безопасным.&lt;br /&gt;&lt;br /&gt;Разные по высоте ступени (восемь положений) для установки штанги обеспечивают удобство при постановке снаряда перед приседом. Стойка выдерживает большие нагрузки и рассчитана на профессиональное использование в тренажерных залах. Гребенки выполнены из листовой стали толщиной 8мм.&lt;br /&gt;&lt;br /&gt;Дополнительно стойка оснащена накопителями для дисков. &lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 80х60 мм, толщина стенки 2 мм, что обеспечивает максимальную прочность и устойчивость. На тренажере предусмотрены регулируемы страховочные упоры по высоте с тремя уровнями. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+Стойка для приседаний со штангой - залог эффективных и безопасных тренировок. Это универсальное устройство для выполнения приседаний с отягощением, не имеющее аналогов по скорости накачки мышц. &lt;br /&gt;&lt;br /&gt;Приседания со штангой позволяют комплексно проработать все группы мышц нижней части тела: приводящие мышцы бедер и ягодиц, квадрицепсы, а также мышцы груди, спины и рук. Прочная страховочная конструкция с регулировкой (3 положения) делает упражнение максимально безопасным.&lt;br /&gt;&lt;br /&gt;Разные по высоте ступени (восемь положений) для установки штанги обеспечивают удобство при постановке снаряда перед приседом. Стойка выдерживает большие нагрузки и рассчитана на профессиональное использование в тренажерных залах. Гребенки выполнены из листовой стали толщиной 8мм.&lt;br /&gt;&lt;br /&gt;Нагрузка на стойку до 500 кг.&lt;br /&gt;&lt;br /&gt;Дополнительно стойка оснащена накопителями для дисков. &lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 80х60 мм, толщина стенки 2 мм, что обеспечивает максимальную прочность и устойчивость. На тренажере предусмотрены регулируемы страховочные упоры по высоте с тремя уровнями. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
 
 			</description>
 			<picture>https://static.tildacdn.com/stor3364-6132-4238-b262-363134306533/36089239.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-176743844971-stoika-dlya-prisedanii-so-strahovochnimi</url>
-			<price>39300.00</price>
+			<price>43200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<weight>70</weight>
-			<dimensions>160/127/199</dimensions>
+			<weight>100</weight>
+			<dimensions>181/160/201.5</dimensions>
 		<barcode>1830288086668</barcode></offer>
 		<offer id="834308107441">
 			<name>Стойка для дисков Елочка на 9 мест</name>
@@ -2114,7 +2263,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3633-3932-4662-b935-336262663632/37805975.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-834308107441-stoika-dlya-diskov-elochka-na-9-mest</url>
-			<price>24100.00</price>
+			<price>26500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>26</weight>
@@ -2131,7 +2280,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3334-6239-4738-b936-373365643265/21508599.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-219833518931-silovaya-rama-s-turnikom</url>
-			<price>74500.00</price>
+			<price>82000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>120</weight>
@@ -2148,7 +2297,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6165-6634-4431-b966-656633303431/47309008.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-869981565181-napolnii-trenazher-press-turnik-brusya</url>
-			<price>42600.00</price>
+			<price>46900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>80</weight>
@@ -2160,16 +2309,16 @@
 			<vendorCode>AT-004</vendorCode>
 			<description>
 
-Тренажер напольные брусья предназначен для эффективных тренировок с собственным весом. Спортивные напольные брусья станут идеальным решением для тренировки грудных мышц, трицепса и пресса.&lt;br /&gt;&lt;br /&gt;Удлиненные рукоятки с рельефной поверхностью надежно фиксируют хват и исключают соскальзывание кистей во время упражнений. &lt;br /&gt;&lt;br /&gt;Этот тренажер из прочного металлического профиля обеспечивает максимально жесткую конструкцию, выдерживающую атлетов любого веса и интенсивные нагрузки. Брусья обладают диапазоном хвата от 480 мм до 720 мм. Широкое основание надежно фиксирует брусья на полу.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 80х60 мм, толщина стенки 2 мм, что обеспечивает максимальную прочность и устойчивость. &lt;br /&gt;&lt;br /&gt;Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+Тренажер напольные брусья предназначен для эффективных тренировок с собственным весом. Спортивные напольные брусья станут идеальным решением для тренировки грудных мышц, трицепса и пресса.&lt;br /&gt;&lt;br /&gt;Удлиненные рукоятки с рельефной поверхностью надежно фиксируют хват и исключают соскальзывание кистей во время упражнений. &lt;br /&gt;&lt;br /&gt;Этот тренажер из прочного металлического профиля обеспечивает максимально жесткую конструкцию, выдерживающую атлетов любого веса и интенсивные нагрузки. Брусья обладают диапазоном хвата от 480 мм до 720 мм. Широкое основание надежно фиксирует брусья на полу.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х60 мм, толщина стенки 2 мм, что обеспечивает максимальную прочность и устойчивость. &lt;br /&gt;&lt;br /&gt;Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
 
 			</description>
 			<picture>https://static.tildacdn.com/stor6663-6333-4865-b065-316338363735/33874063.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-732453828681-napolnie-brusya</url>
-			<price>26400.00</price>
+			<price>29000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>39</weight>
-			<dimensions>97/84/144</dimensions>
+			<dimensions>110/79/134.5</dimensions>
 		<barcode>2107689087648</barcode></offer>
 		<offer id="564564940411">
 			<name>Скамья для жима штанги наклонная</name>
@@ -2182,7 +2331,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3237-6539-4831-b538-666366626335/90760657.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-564564940411-skamya-dlya-zhima-shtangi-naklonnaya</url>
-			<price>36100.00</price>
+			<price>39700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>80</weight>
@@ -2199,7 +2348,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3230-3663-4338-b539-393737616434/27760891.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-807377669081-skamya-dlya-zhima-shtangi-sidya</url>
-			<price>29500.00</price>
+			<price>32500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>60</weight>
@@ -2216,7 +2365,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3935-3337-4235-b438-663865653861/97188301.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-348882954821-skamya-dlya-obratnih-giperekstenzii</url>
-			<price>26100.00</price>
+			<price>28700.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>40</weight>
@@ -2233,11 +2382,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3864-3934-4362-a133-343338353034/50205620.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-851961644731-rimskii-stul-reguliruemii</url>
-			<price>31800.00</price>
+			<price>35000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>50</weight>
-			<dimensions>170/75/125</dimensions>
+			<dimensions>164/78.5/125</dimensions>
 		<barcode>4477428139838</barcode></offer>
 		<offer id="774863243451">
 			<name>Скамья для жима универсальная 0-90 градусов со стойками</name>
@@ -2245,12 +2394,12 @@
 			<vendorCode>AS-033</vendorCode>
 			<description>
 
-В данной модели регулировку имеет спинка, а сиденье двигается в горизонтальной плоскости. Благодаря такой конструкции обеспечивается оптимальное расположение плечевого пояса атлета относительно стоек в разных положениях наклона спинки. Это обеспечивает дополнительную безопасность и удобство при работе со штангой. &lt;br /&gt;&lt;br /&gt;Данную скамью в полной мере можно назвать универсальной как для жима штанги, так и для работы с гантелями. Выполняя упражнения с разными углами наклона спинки можно эффективно задействовать различные группы мышц. Благодаря довольно крупным "гребенкам" штангу можно удобно разместить на разной высоте стойки для жима.&lt;br /&gt;&lt;br /&gt;Скамья для жима оснащена платформой для страхующего с удобными противоскользящими накладками и накопителями для дисков.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Спинка и сиденье скамьи для жима лежа изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы универсальной скамьи и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Накопитель для нагрузки может быть выполнен размерами 26, 31, 51 мм.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
+В данной модели регулировку имеет спинка, а сиденье двигается в горизонтальной плоскости. Благодаря такой конструкции обеспечивается оптимальное расположение плечевого пояса атлета относительно стоек в разных положениях наклона спинки. Это обеспечивает дополнительную безопасность и удобство при работе со штангой. &lt;br /&gt;&lt;br /&gt;Данную скамью в полной мере можно назвать универсальной как для жима штанги, так и для работы с гантелями. Выполняя упражнения с разными углами наклона спинки можно эффективно задействовать различные группы мышц. Благодаря довольно крупным "гребенкам" штангу можно удобно разместить на разной высоте стойки для жима. Скамья имеет 3 положения сиденья, 8 положений спинки.&lt;br /&gt;&lt;br /&gt;Скамья для жима оснащена платформой для страхующего с удобными противоскользящими накладками и накопителями для дисков.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Спинка и сиденье скамьи для жима лежа изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы универсальной скамьи и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Накопитель для нагрузки может быть выполнен размерами 26, 31, 51 мм.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.
 
 			</description>
 			<picture>https://static.tildacdn.com/stor3831-3034-4037-b930-333138323332/63558085.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-774863243451-skamya-dlya-zhima-universalnaya-0-90-gra</url>
-			<price>59300.00</price>
+			<price>65200.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>120</weight>
@@ -2267,11 +2416,11 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6430-3739-4038-a665-613866383164/89329409.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-572312807391-stoika-dlya-fiksirovannih-prisedanii</url>
-			<price>24100.00</price>
+			<price>26500.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>40</weight>
-			<dimensions>135/76/53</dimensions>
+			<dimensions>136/78/64.5</dimensions>
 		<barcode>7644423222613</barcode></offer>
 		<offer id="806630000111">
 			<name>Скамья для тяги штанги вверх к груди</name>
@@ -2284,7 +2433,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3737-3461-4666-b037-343733333837/55241617.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-806630000111-skamya-dlya-tyagi-shtangi-vverh-k-grudi</url>
-			<price>29900.00</price>
+			<price>32900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 		<barcode>7944840237703</barcode></offer>
@@ -2299,7 +2448,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6337-6362-4838-b662-373838643434/72500079.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-743082469412-skamya-gorizontalnaya-atleticheskaya</url>
-			<price>14500.00</price>
+			<price>16000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 			<weight>25</weight>
@@ -2316,10 +2465,9 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3338-3866-4333-b734-353834353239/41086766.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-683840311052-skamya-skotta-frantsuzskii-zhim</url>
-			<price>53100.00</price>
+			<price>58400.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<weight>0.07</weight>
 			<dimensions>206.4/90/130.8</dimensions>
 		<barcode>2940922463713</barcode></offer>
 		<offer id="678500341662">
@@ -2328,15 +2476,16 @@
 			<vendorCode>AS-023</vendorCode>
 			<description>
 
-Универсальная стойка со страховочными упорами для штанги — идеальное решение для выполнения разнообразных силовых упражнений с большими нагрузками. Она предназначена для жимов в положении от груди, от плеч, из-за головы, а также для приседаний со штангой.&lt;br /&gt;Стойка оснащена механизмом, который позволяет изменять ширину стойки под различные виды грифов: тренировочные, олимпийские и W-образные. Благодаря телескопическому механизму, можно легко регулировать высоту установки штанги от 1180мм до 1750мм.&lt;br /&gt;Страховочные упоры, также регулируемые по высоте, гарантируют максимальную безопасность при работе с большими весами. Для расширения функционала стойку можно использовать в совместном применении с силовой скамьей — это дает возможность эффективно выполнять жимы от груди и другие упражнения.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х80 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Спинка и сиденье изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.&lt;br /&gt;&lt;br /&gt;Длинна 760мм, ширина 1460мм, высота (min 1180мм, max 1750мм) .
+Универсальная стойка со страховочными упорами для штанги — идеальное решение для выполнения разнообразных силовых упражнений с большими нагрузками. Она предназначена для жимов в положении от груди, от плеч, из-за головы, а также для приседаний со штангой.&lt;br /&gt;Стойка оснащена механизмом, который позволяет изменять ширину стойки под различные виды грифов: тренировочные, олимпийские и W-образные. Благодаря телескопическому механизму, можно легко регулировать высоту установки штанги от 1180мм до 1750мм.&lt;br /&gt;Страховочные упоры, также регулируемые по высоте, гарантируют максимальную безопасность при работе с большими весами. Для расширения функционала стойку можно использовать в совместном применении с силовой скамьей — это дает возможность эффективно выполнять жимы от груди и другие упражнения.&lt;br /&gt;&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х60 мм, толщина стенки 2 мм. Покраска рамы выполнена методом порошковой окраски.&lt;br /&gt;&lt;br /&gt;Спинка и сиденье изготовлены из фанеры толщиной 18 мм с стальным листовым основанием. В качестве наполнителя и обивки используется вспененный пенополиуретан и искусственная кожа. Все рукоятки оснащены ручками из ПВХ. &lt;br /&gt;&lt;br /&gt;Все узлы вращения оснащены шариковыми подшипниками закрытого типа.&lt;br /&gt;&lt;br /&gt;Все торцы оснащены заглушками из ПВХ. Тренажер оснащен резиновыми противоскользящими подпятниками.&lt;br /&gt;&lt;br /&gt;Цвет рамы и мягких элементов можно выбрать согласно RAL.&lt;br /&gt;&lt;br /&gt;Гарантия:12 месяцев.&lt;br /&gt;&lt;br /&gt;Д*Ш*В: 785*1460*1195/1745
 
 			</description>
 			<picture>https://static.tildacdn.com/stor6437-3938-4463-b862-396566393730/15586923.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-678500341662-as-023-universalnaya-stoika-so-strahovoc</url>
-			<price>21800.00</price>
+			<price>24000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
-			<dimensions>76/146/118</dimensions>
+			<weight>50</weight>
+			<dimensions>78.5/146/119.5</dimensions>
 		<barcode>9879557227397</barcode></offer>
 		<offer id="311531349942">
 			<name>AS-009 — Скамья для жима с обратным наклоном</name>
@@ -2349,7 +2498,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor6265-6130-4162-a533-393736633937/58384684.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-311531349942-as-009-skamya-dlya-zhima-s-obratnim-nakl</url>
-			<price>38000.00</price>
+			<price>41800.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 		<barcode>2163452949247</barcode></offer>
@@ -2364,7 +2513,7 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3636-3532-4233-b934-336661626439/14566419.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-543757023672-at-012-napolnii-trenazher-press-brusya</url>
-			<price>37300.00</price>
+			<price>41000.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 		<barcode>1309523105865</barcode></offer>
@@ -2379,10 +2528,26 @@
 			</description>
 			<picture>https://static.tildacdn.com/stor3665-6238-4463-b163-346432343235/71983035.jpg</picture>
 			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-201053862502-as-039-skamya-universalnaya-s-otritsatel</url>
-			<price>28700.00</price>
+			<price>31600.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>956458558451</categoryId>
 		<barcode>9709480403417</barcode></offer>
+		<offer id="440887752832">
+			<name>AS-028 — Стеллаж для гантелей двухъярусный на 10 пар</name>
+			<vendor>DEXsport</vendor>
+			<vendorCode>AS-028</vendorCode>
+			<description>
+
+Характеристики:&lt;br /&gt;Несущая конструкция изготовлена из профиля 60х60х2 - основной, 60х40х2 - полки и 60х30х2 – опоры.&lt;br /&gt;Длина рукояти гантелей для оптимального расположения на стеллаже должна быть не менее 120мм.&lt;br /&gt;Окраска – порошковое напыление
+
+			</description>
+			<picture>https://static.tildacdn.com/stor3032-3930-4639-b134-663533373663/9e4c4b56d2a940d37311b43835161419.jpg</picture>
+			<url>https://dexsport.ru/skamji-stoyki-turniki/tproduct/522723327-440887752832-as-028-stellazh-dlya-gantelei-dvuhyarusn</url>
+			<price>41400.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>956458558451</categoryId>
+			<dimensions>220/73/57</dimensions>
+		<barcode>0028855998358</barcode></offer>
 		</offers>
 	</shop>
 </yml_catalog>
